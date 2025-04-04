@@ -6,25 +6,38 @@ public class HeadsUpGameManager : MonoBehaviour
     [SerializeField] private GameplayUI gameplayUI;
     [SerializeField] private OrientationDetector orientationDetector;
     [SerializeField] private QuestionDataManager dataManager;
-    [SerializeField] private string currentTheme = "Movies";
+    [SerializeField] private TextAsset defaultThemeFile; // For manually setting a theme
     [SerializeField] private int pointsPerCorrectAnswer = 100;
     [SerializeField] private int pointDeductionPerHint = 25;
-    [SerializeField] private int maxPointDeduction = 75; // Cap at 75 point deduction (3 hints)
+    [SerializeField] private int maxPointDeduction = 75;
     
     private List<Question> currentQuestions;
     private int currentQuestionIndex = -1;
     private bool isGameActive = false;
     private int currentScore = 0;
     private int currentHintDeduction = 0;
-    private List<int> availableHintIndices = new List<int>(); // Track available hint indices
+    private List<int> availableHintIndices = new List<int>();
     
     private void Awake()
     {
         // Lock screen to landscape mode
         Screen.orientation = ScreenOrientation.LandscapeLeft;
-        
-        // Prevent screen from turning off during gameplay
         Screen.sleepTimeout = SleepTimeout.NeverSleep;
+        
+        // Check if there's a theme passed from theme selection
+        TextAsset themeToLoad = ThemePassingManager.GetSelectedTheme();
+        
+        // If nothing was passed, use the default theme
+        if (themeToLoad == null && defaultThemeFile != null)
+        {
+            themeToLoad = defaultThemeFile;
+        }
+        
+        // Load the theme
+        if (themeToLoad != null)
+        {
+            dataManager.LoadTheme(themeToLoad);
+        }
     }
     
     private void Start()
@@ -33,7 +46,15 @@ public class HeadsUpGameManager : MonoBehaviour
         orientationDetector.OnSkipTilt += HandleSkip;
         orientationDetector.OnHintTilt += HandleHintRequest;
         
-        currentQuestions = dataManager.GetQuestionsForTheme(currentTheme);
+        // Get questions from current theme
+        currentQuestions = dataManager.GetCurrentThemeQuestions();
+        
+        if (currentQuestions == null || currentQuestions.Count == 0)
+        {
+            Debug.LogError("No questions available! Please ensure a theme is loaded.");
+            return;
+        }
+        
         ShuffleQuestions();
         ResetScore();
         StartGame();
@@ -192,11 +213,11 @@ public class HeadsUpGameManager : MonoBehaviour
         }
     }
     
-    public void SetTheme(string themeName)
-    {
-        currentTheme = themeName;
-        currentQuestions = dataManager.GetQuestionsForTheme(themeName);
-        ShuffleQuestions();
-        currentQuestionIndex = -1;
-    }
+    // public void SetTheme(string themeName)
+    // {
+    //     currentTheme = themeName;
+    //     currentQuestions = dataManager.GetQuestionsForTheme(themeName);
+    //     ShuffleQuestions();
+    //     currentQuestionIndex = -1;
+    // }
 }

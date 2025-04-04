@@ -1,0 +1,19 @@
+{
+    "themeName": "Movies",
+    "description": " oiwo fiwaofaihoaifhadsofi shao fsiahfiodsafaodsif",
+    "visibleInEditor": false,
+    "questions": [
+      {
+        "answer": "Titanic",
+        "clues": ["Ship", "Iceberg", "Leonardo DiCaprio"]
+      },
+      {
+        "answer": "Star Wars",
+        "clues": ["Lightsaber", "Jedi", "Force"]
+      },
+      {
+        "answer": "The Matrix",
+        "clues": ["Pills", "Simulation", "Neo"]
+      }
+    ]
+  }

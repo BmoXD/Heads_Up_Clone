@@ -1,0 +1,19 @@
+{
+    "themeName": "Animals",
+    "description": " oiwo fiwaofaihoaifhadsofi shao fsiahfiodsafaodsif",
+    "visibleInEditor": false,
+    "questions": [
+      {
+        "answer": "Elephant",
+        "clues": ["Trunk", "Large", "Tusks"]
+      },
+      {
+        "answer": "Penguin",
+        "clues": ["Antarctica", "Tuxedo", "Flightless Bird"]
+      },
+      {
+        "answer": "Tiger",
+        "clues": ["Stripes", "Jungle", "Big Cat"]
+      }
+    ]
+  }

@@ -24,6 +24,7 @@ public class OrientationDetector : MonoBehaviour
     {
         // Get device orientation from accelerometer
         Vector3 acceleration = Input.acceleration;
+        Debug.Log("Acceleration: "+acceleration+"/n"+"isTilted: "+isTilted);
         
         // Check if device has returned to neutral position
         if (isTilted && Mathf.Abs(acceleration.z) < neutralThreshold && Mathf.Abs(acceleration.x) < neutralThreshold)

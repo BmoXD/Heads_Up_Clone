@@ -863,7 +863,7 @@ MonoBehaviour:
   gameplayUI: {fileID: 387724898}
   orientationDetector: {fileID: 117644158}
   dataManager: {fileID: 2117001536}
-  currentTheme: Movies
+  defaultThemeFile: {fileID: 4900000, guid: b0b4e2f04a18a764fa0c858905ec838f, type: 3}
   pointsPerCorrectAnswer: 100
   pointDeductionPerHint: 25
   maxPointDeduction: 75
@@ -1381,7 +1381,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8483ddf803c210344b7ebd17cc6e5eab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jsonFile: {fileID: 4900000, guid: 9266e438a71a2c74abb911f7ef802ab1, type: 3}
+  defaultThemeFile: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
