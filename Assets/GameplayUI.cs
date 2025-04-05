@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class GameplayUI : MonoBehaviour
 {
     [Header("Main Game UI")]
+    [SerializeField] private GameObject gameplayPanel; // Add this line - parent container for gameplay UI
     [SerializeField] private TextMeshProUGUI answerText;
     [SerializeField] private TextMeshProUGUI timerText;
     [SerializeField] private TextMeshProUGUI scoreText;
@@ -33,6 +34,9 @@ public class GameplayUI : MonoBehaviour
         
         // Hide game over panel initially
         if (gameOverPanel != null) gameOverPanel.SetActive(false);
+        
+        // Show gameplay panel
+        if (gameplayPanel != null) gameplayPanel.SetActive(true);
         
         // Set up button listener
         if (mainMenuButton != null)
@@ -107,6 +111,9 @@ public class GameplayUI : MonoBehaviour
     
     public void ShowGameOver(int score, int correctGuesses)
     {
+        // Hide the gameplay UI
+        if (gameplayPanel != null) gameplayPanel.SetActive(false);
+        
         // Calculate total score
         int bonusPoints = correctGuesses * 25;
         int totalScore = score + bonusPoints;
