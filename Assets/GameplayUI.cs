@@ -1,49 +1,49 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class GameplayUI : MonoBehaviour
 {
+    [Header("Main Game UI")]
     [SerializeField] private TextMeshProUGUI answerText;
     [SerializeField] private TextMeshProUGUI timerText;
     [SerializeField] private TextMeshProUGUI scoreText;
     [SerializeField] private TextMeshProUGUI answerWhenHintText;
     [SerializeField] private TextMeshProUGUI pointDeductionText;
-    [SerializeField] private float gameDuration = 60f;
     
-    private float currentTime;
+    [Header("Game Over UI")]
+    [SerializeField] private GameObject gameOverPanel;
+    [SerializeField] private TextMeshProUGUI finalScoreText;
+    [SerializeField] private TextMeshProUGUI correctGuessesText;
+    [SerializeField] private TextMeshProUGUI totalScoreText;
+    [SerializeField] private Button mainMenuButton;
+    [SerializeField] private string mainMenuSceneName = "MainMenu";
+    
     private string currentAnswer;
     private bool isHintShowing = false;
     
     private void Start()
     {
-        currentTime = gameDuration;
-        UpdateTimerDisplay();
         UpdateScoreDisplay(0); // Initialize score display
         
         // Hide hint-related elements initially
         if (answerWhenHintText != null) answerWhenHintText.gameObject.SetActive(false);
         if (pointDeductionText != null) pointDeductionText.gameObject.SetActive(false);
-    }
-    
-    private void Update()
-    {
-        if (currentTime > 0)
+        
+        // Hide game over panel initially
+        if (gameOverPanel != null) gameOverPanel.SetActive(false);
+        
+        // Set up button listener
+        if (mainMenuButton != null)
         {
-            currentTime -= Time.deltaTime;
-            UpdateTimerDisplay();
-        }
-        else
-        {
-            // Time's up!
-            currentTime = 0;
-            // Handle end of round
+            mainMenuButton.onClick.AddListener(ReturnToMainMenu);
         }
     }
     
-    private void UpdateTimerDisplay()
+    public void UpdateTimerDisplay(float time)
     {
-        int seconds = Mathf.FloorToInt(currentTime);
+        int seconds = Mathf.FloorToInt(time);
         timerText.text = seconds.ToString();
     }
     
@@ -103,5 +103,31 @@ public class GameplayUI : MonoBehaviour
     public bool IsHintShowing()
     {
         return isHintShowing;
+    }
+    
+    public void ShowGameOver(int score, int correctGuesses)
+    {
+        // Calculate total score
+        int bonusPoints = correctGuesses * 25;
+        int totalScore = score + bonusPoints;
+        
+        // Update UI texts
+        if (finalScoreText != null)
+            finalScoreText.text = $"Score: {score}";
+            
+        if (correctGuessesText != null)
+            correctGuessesText.text = $"Correct Guesses: {correctGuesses}";
+            
+        if (totalScoreText != null)
+            totalScoreText.text = $"Total Score: {totalScore}";
+        
+        // Show the game over panel
+        if (gameOverPanel != null)
+            gameOverPanel.SetActive(true);
+    }
+    
+    private void ReturnToMainMenu()
+    {
+        SceneManager.LoadScene(mainMenuSceneName);
     }
 }

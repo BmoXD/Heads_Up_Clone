@@ -1,0 +1,248 @@
+{
+    "themeName": "Inventions",
+    "description": "Inventions pack - 60 answers",
+    "visibleInBankEditor": false,
+    "questions": [
+      {
+        "answer": "Telephone",
+        "clues": ["Call", "Rings", "Talk"]
+      },
+      {
+        "answer": "Light Bulb",
+        "clues": ["Bright", "Electric", "Edison"]
+      },
+      {
+        "answer": "Airplane",
+        "clues": ["Fly", "Wright Brothers", "Wings"]
+      },
+      {
+        "answer": "Printing Press",
+        "clues": ["Books", "Gutenberg", "Ink"]
+      },
+      {
+        "answer": "Wheel",
+        "clues": ["Round", "Roll", "Ancient"]
+      },
+      {
+        "answer": "Computer",
+        "clues": ["Digital", "Processor", "Keyboard"]
+      },
+      {
+        "answer": "Microwave",
+        "clues": ["Heat", "Kitchen", "Fast"]
+      },
+      {
+        "answer": "Compass",
+        "clues": ["North", "Navigation", "Magnet"]
+      },
+      {
+        "answer": "Camera",
+        "clues": ["Photos", "Lens", "Snapshot"]
+      },
+      {
+        "answer": "Radio",
+        "clues": ["AM/FM", "Broadcast", "Music"]
+      },
+      {
+        "answer": "Television",
+        "clues": ["Screen", "Channels", "Shows"]
+      },
+      {
+        "answer": "Internet",
+        "clues": ["Online", "Web", "Connect"]
+      },
+      {
+        "answer": "Toilet",
+        "clues": ["Flush", "Bathroom", "Plumbing"]
+      },
+      {
+        "answer": "Refrigerator",
+        "clues": ["Cold", "Preserve", "Food"]
+      },
+      {
+        "answer": "Car",
+        "clues": ["Drive", "Wheels", "Engine"]
+      },
+      {
+        "answer": "Electric Guitar",
+        "clues": ["Rock", "Strings", "Amplifier"]
+      },
+      {
+        "answer": "Smartphone",
+        "clues": ["Touchscreen", "Apps", "Text"]
+      },
+      {
+        "answer": "GPS",
+        "clues": ["Navigate", "Location", "Map"]
+      },
+      {
+        "answer": "Rocket",
+        "clues": ["Launch", "NASA", "Space"]
+      },
+      {
+        "answer": "Battery",
+        "clues": ["Charge", "Power", "Portable"]
+      },
+      {
+        "answer": "Vaccination",
+        "clues": ["Medicine", "Immunity", "Shot"]
+      },
+      {
+        "answer": "Glasses",
+        "clues": ["Vision", "Lenses", "See"]
+      },
+      {
+        "answer": "Air Conditioner",
+        "clues": ["Cool", "Summer", "Fan"]
+      },
+      {
+        "answer": "Elevator",
+        "clues": ["Lift", "Floors", "Button"]
+      },
+      {
+        "answer": "Laser",
+        "clues": ["Beam", "Light", "Precision"]
+      },
+      {
+        "answer": "3D Printer",
+        "clues": ["Layer", "Model", "Plastic"]
+      },
+      {
+        "answer": "Drone",
+        "clues": ["Fly", "Remote", "Camera"]
+      },
+      {
+        "answer": "Credit Card",
+        "clues": ["Swipe", "Bank", "Money"]
+      },
+      {
+        "answer": "Zipper",
+        "clues": ["Clothes", "Teeth", "Fastener"]
+      },
+      {
+        "answer": "Velcro",
+        "clues": ["Stick", "Shoes", "Hook"]
+      },
+      {
+        "answer": "Telescope",
+        "clues": ["Stars", "Magnify", "Space"]
+      },
+      {
+        "answer": "Sewing Machine",
+        "clues": ["Thread", "Fabric", "Needle"]
+      },
+      {
+        "answer": "Penicillin",
+        "clues": ["Antibiotic", "Fleming", "Bacteria"]
+      },
+      {
+        "answer": "Steam Engine",
+        "clues": ["Coal", "Train", "Industrial"]
+      },
+      {
+        "answer": "Solar Panel",
+        "clues": ["Sun", "Energy", "Electricity"]
+      },
+      {
+        "answer": "Submarine",
+        "clues": ["Underwater", "Periscope", "Navy"]
+      },
+      {
+        "answer": "Motorcycle",
+        "clues": ["Two Wheels", "Helmet", "Ride"]
+      },
+      {
+        "answer": "Barcode",
+        "clues": ["Scan", "Lines", "Price"]
+      },
+      {
+        "answer": "X-Ray",
+        "clues": ["Bones", "Radiation", "Hospital"]
+      },
+      {
+        "answer": "Typewriter",
+        "clues": ["Keys", "Ink Ribbon", "Old School"]
+      },
+      {
+        "answer": "Binoculars",
+        "clues": ["Zoom", "Far", "Eyes"]
+      },
+      {
+        "answer": "Washing Machine",
+        "clues": ["Laundry", "Spin", "Clothes"]
+      },
+      {
+        "answer": "Hair Dryer",
+        "clues": ["Blow", "Salon", "Hot Air"]
+      },
+      {
+        "answer": "Fan",
+        "clues": ["Blades", "Cool Air", "Spin"]
+      },
+      {
+        "answer": "Alarm Clock",
+        "clues": ["Wake Up", "Rings", "Time"]
+      },
+      {
+        "answer": "Fire Extinguisher",
+        "clues": ["Safety", "Spray", "Red Canister"]
+      },
+      {
+        "answer": "Skateboard",
+        "clues": ["Wheels", "Deck", "Tricks"]
+      },
+      {
+        "answer": "Contact Lenses",
+        "clues": ["Vision", "Invisible", "Eye"]
+      },
+      {
+        "answer": "ATM",
+        "clues": ["Cash", "Machine", "PIN"]
+      },
+      {
+        "answer": "Remote Control",
+        "clues": ["TV", "Buttons", "Wireless"]
+      },
+      {
+        "answer": "Stapler",
+        "clues": ["Paper", "Clip", "Push"]
+      },
+      {
+        "answer": "Blender",
+        "clues": ["Smoothie", "Whirl", "Kitchen"]
+      },
+      {
+        "answer": "Flashlight",
+        "clues": ["Dark", "Battery", "Beam"]
+      },
+      {
+        "answer": "Keyboard",
+        "clues": ["Type", "QWERTY", "Keys"]
+      },
+      {
+        "answer": "Mouse",
+        "clues": ["Click", "Pointer", "Computer"]
+      },
+      {
+        "answer": "Projector",
+        "clues": ["Screen", "Beam", "Slides"]
+      },
+      {
+        "answer": "Clocks",
+        "clues": ["Time", "Hands", "Tick"]
+      },
+      {
+        "answer": "Sunglasses",
+        "clues": ["Shade", "UV", "Cool"]
+      },
+      {
+        "answer": "Lawn Mower",
+        "clues": ["Grass", "Yard", "Trim"]
+      },
+      {
+        "answer": "Mirror",
+        "clues": ["Reflection", "Glass", "Face"]
+      }
+    ]
+  }
+  

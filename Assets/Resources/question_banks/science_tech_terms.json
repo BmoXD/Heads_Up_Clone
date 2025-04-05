@@ -1,0 +1,251 @@
+{
+    "themeName": "Science & Technology",
+    "description": "Science and tech terms - 61 answers",
+    "visibleInBankEditor": false,
+    "questions": [
+    {
+      "answer": "Quantum",
+      "clues": ["Physics of subatomic particles", "Superposition principle", "Entanglement phenomenon"]
+    },
+    {
+      "answer": "Neuron",
+      "clues": ["Basic brain cell", "Transmits electrical signals", "Part of nervous system"]
+    },
+    {
+      "answer": "Blockchain",
+      "clues": ["Decentralized ledger technology", "Used for cryptocurrencies", "Immutable records"]
+    },
+    {
+      "answer": "Algorithm",
+      "clues": ["Step-by-step procedure", "Used in computing", "Essential for programming"]
+    },
+    {
+      "answer": "Nanotechnology",
+      "clues": ["Manipulating atoms/molecules", "Medical applications", "Extremely small scale"]
+    },
+    {
+      "answer": "Superconductor",
+      "clues": ["Zero electrical resistance", "Meissner effect", "Extremely cold materials"]
+    },
+    {
+      "answer": "CRISPR",
+      "clues": ["Gene-editing technology", "Uses bacterial defense", "Precision DNA cutting"]
+    },
+    {
+      "answer": "Fermion",
+      "clues": ["Type of quantum particle", "Follows Pauli exclusion", "Electrons are examples"]
+    },
+    {
+      "answer": "Boson",
+      "clues": ["Quantum force carrier", "Higgs particle is one", "Integer spin"]
+    },
+    {
+      "answer": "Antimatter",
+      "clues": ["Opposite of normal matter", "Annihilates on contact", "Positrons are part"]
+    },
+    {
+      "answer": "Supernova",
+      "clues": ["Exploding star", "Brighter than galaxy", "Creates neutron stars"]
+    },
+    {
+      "answer": "Singularity",
+      "clues": ["Center of black hole", "Infinite density", "Physics breaks down"]
+    },
+    {
+      "answer": "Entropy",
+      "clues": ["Measure of disorder", "Second law of thermodynamics", "Always increases"]
+    },
+    {
+      "answer": "Exabyte",
+      "clues": ["Data storage unit", "1 billion gigabytes", "Massive server farms"]
+    },
+    {
+      "answer": "Firewall",
+      "clues": ["Network security", "Blocks unauthorized access", "Filters traffic"]
+    },
+    {
+      "answer": "Torrent",
+      "clues": ["P2P file sharing", "Broken into pieces", "Controversial usage"]
+    },
+    {
+      "answer": "Metadata",
+      "clues": ["Data about data", "File creation dates", "Can reveal patterns"]
+    },
+    {
+      "answer": "Firewire",
+      "clues": ["Apple's interface standard", "Faster than USB 2.0", "Used for video transfer"]
+    },
+    {
+      "answer": "Firmware",
+      "clues": ["Permanent software", "Hardware control", "BIOS is example"]
+    },
+    {
+      "answer": "Kernel",
+      "clues": ["Core of OS", "Manages resources", "Linux foundation"]
+    },
+    {
+      "answer": "Microchip",
+      "clues": ["Integrated circuit", "Silicon-based", "Power electronics"]
+    },
+    {
+      "answer": "Transistor",
+      "clues": ["Semiconductor device", "Amplifies signals", "Building block"]
+    },
+    {
+      "answer": "Capacitor",
+      "clues": ["Stores charge", "Two conductive plates", "Used in circuits"]
+    },
+    {
+      "answer": "Diode",
+      "clues": ["One-way current", "LEDs are type", "Rectifies AC"]
+    },
+    {
+      "answer": "Tesla Coil",
+      "clues": ["High-voltage transformer", "Wireless power demo", "Nikola Tesla invention"]
+    },
+    {
+      "answer": "Cyclotron",
+      "clues": ["Particle accelerator", "Spiral path design", "Early nuclear research"]
+    },
+    {
+      "answer": "Hadron",
+      "clues": ["Composite particle", "Protons are examples", "CERN studies them"]
+    },
+    {
+      "answer": "Lepton",
+      "clues": ["Elementary particle", "Electrons are type", "Not affected by strong force"]
+    },
+    {
+      "answer": "Pangaea",
+      "clues": ["Ancient supercontinent", "Broke apart 200M yrs ago", "Wegener's theory"]
+    },
+    {
+      "answer": "Tectonics",
+      "clues": ["Plate movement", "Causes earthquakes", "Continental drift"]
+    },
+    {
+      "answer": "Spectrometer",
+      "clues": ["Measures light", "Chemical analysis", "Identifies elements"]
+    },
+    {
+      "answer": "Centrifuge",
+      "clues": ["Spins samples", "Separates by density", "Lab essential"]
+    },
+    {
+      "answer": "Autoclave",
+      "clues": ["Sterilizes equipment", "Uses steam/pressure", "Medical/lab use"]
+    },
+    {
+      "answer": "Microscope",
+      "clues": ["Magnifies small objects", "Leeuwenhoek invention", "Electron version powerful"]
+    },
+    {
+      "answer": "Telescope",
+      "clues": ["Observes distant objects", "Reflector/refractor", "Hubble is famous"]
+    },
+    {
+      "answer": "Spectroscope",
+      "clues": ["Analyzes light", "Identifies elements", "Used in astronomy"]
+    },
+    {
+      "answer": "Pipette",
+      "clues": ["Measures liquids", "Lab dropper", "Precision tool"]
+    },
+    {
+      "answer": "Bunsen Burner",
+      "clues": ["Lab heat source", "Adjustable flame", "Gas-powered"]
+    },
+    {
+      "answer": "Petri Dish",
+      "clues": ["Cultivates microbes", "Round glass plate", "Lab staple"]
+    },
+    {
+      "answer": "Morse Code",
+      "clues": ["Early communication", "Dots and dashes", "Telegraph system"]
+    },
+    {
+      "answer": "Enigma",
+      "clues": ["WWII cipher machine", "Turing cracked it", "German encryption"]
+    },
+    {
+      "answer": "Babbage",
+      "clues": ["Computer pioneer", "Difference Engine", "19th century designs"]
+    },
+    {
+      "answer": "Lovelace",
+      "clues": ["First programmer", "Worked on Babbage's machine", "Ada's surname"]
+    },
+    {
+      "answer": "Binary",
+      "clues": ["Base-2 system", "1s and 0s", "Computer language"]
+    },
+    {
+      "answer": "Hexidecimal",
+      "clues": ["Base-16 system", "0-9 and A-F", "Compact binary"]
+    },
+    {
+      "answer": "Boolean",
+      "clues": ["True/False logic", "AND/OR operators", "Algebra type"]
+    },
+    {
+      "answer": "Fractal",
+      "clues": ["Infinite patterns", "Self-similar shapes", "Mandelbrot set"]
+    },
+    {
+      "answer": "Paradox",
+      "clues": ["Contradictory truth", "Zeno's Achilles", "Time travel issues"]
+    },
+    {
+      "answer": "Eclipse",
+      "clues": ["Solar/lunar event", "Moon blocks sun", "Corona visible"]
+    },
+    {
+      "answer": "Aurora",
+      "clues": ["Polar lights", "Solar wind effect", "Borealis/Australis"]
+    },
+    {
+      "answer": "Coriolis",
+      "clues": ["Deflection effect", "Hurricanes spin", "Due to Earth's rotation"]
+    },
+    {
+      "answer": "Doppler",
+      "clues": ["Frequency shift", "Ambulance siren", "Redshift in space"]
+    },
+    {
+      "answer": "Schrodinger",
+      "clues": ["Quantum physicist", "Cat thought experiment", "Wave equation"]
+    },
+    {
+      "answer": "Pavlov",
+      "clues": ["Behavioral scientist", "Dogs and bells", "Conditioned response"]
+    },
+    {
+      "answer": "Darwin",
+      "clues": ["Natural selection", "Origin of Species", "Galapagos finches"]
+    },
+    {
+      "answer": "Mendel",
+      "clues": ["Genetics pioneer", "Pea plant experiments", "Dominant/recessive"]
+    },
+    {
+      "answer": "Fleming",
+      "clues": ["Penicillin discovery", "Accidental mold", "Antibiotic revolution"]
+    },
+    {
+      "answer": "Archimedes",
+      "clues": ["Ancient scientist", "Eureka moment", "Buoyancy principle"]
+    },
+    {
+      "answer": "Galileo",
+      "clues": ["Telescope astronomy", "Heliocentrism", "Church conflict"]
+    },
+    {
+      "answer": "Copernicus",
+      "clues": ["Sun-centered model", "Revolutionary idea", "De Revolutionibus"]
+    },
+    {
+      "answer": "Kepler",
+      "clues": ["Planetary motion", "Elliptical orbits", "Three laws"]
+    }
+  ]
+}

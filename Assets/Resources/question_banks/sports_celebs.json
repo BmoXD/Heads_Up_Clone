@@ -1,0 +1,160 @@
+{
+    "themeName": "Sports Celebrities",
+    "description": "Sports celebs - 38 answers",
+    "visibleInBankEditor": false,
+    "questions": [
+      {
+        "answer": "Michael Jordan",
+        "clues": ["Basketball", "Chicago Bulls", "Air Jordan"]
+      },
+      {
+        "answer": "Serena Williams",
+        "clues": ["Tennis", "Grand Slam", "Venus's Sister"]
+      },
+      {
+        "answer": "LeBron James",
+        "clues": ["Basketball", "LA Lakers", "King James"]
+      },
+      {
+        "answer": "Usain Bolt",
+        "clues": ["Sprinter", "Jamaica", "Fastest Man"]
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "clues": ["Football", "Portugal", "Real Madrid"]
+      },
+      {
+        "answer": "Lionel Messi",
+        "clues": ["Football", "Argentina", "Barcelona"]
+      },
+      {
+        "answer": "Muhammad Ali",
+        "clues": ["Boxing", "The Greatest", "Rumble in the Jungle"]
+      },
+      {
+        "answer": "Tom Brady",
+        "clues": ["Football", "Quarterback", "Super Bowl"]
+      },
+      {
+        "answer": "Tiger Woods",
+        "clues": ["Golf", "Masters", "Green Jacket"]
+      },
+      {
+        "answer": "Kobe Bryant",
+        "clues": ["Basketball", "LA Lakers", "Mamba"]
+      },
+      {
+        "answer": "Roger Federer",
+        "clues": ["Tennis", "Switzerland", "Grand Slam"]
+      },
+      {
+        "answer": "Venus Williams",
+        "clues": ["Tennis", "Sister of Serena", "Grand Slam"]
+      },
+      {
+        "answer": "Shaquille O'Neal",
+        "clues": ["Basketball", "LA Lakers", "Center"]
+      },
+      {
+        "answer": "Pele",
+        "clues": ["Football", "Brazil", "World Cup"]
+      },
+      {
+        "answer": "Dwayne 'The Rock' Johnson",
+        "clues": ["Wrestling", "Actor", "Rock Bottom"]
+      },
+      {
+        "answer": "Simone Biles",
+        "clues": ["Gymnastics", "Olympics", "Gold Medals"]
+      },
+      {
+        "answer": "Rafael Nadal",
+        "clues": ["Tennis", "Spain", "Clay Court"]
+      },
+      {
+        "answer": "David Beckham",
+        "clues": ["Football", "England", "Manchester United"]
+      },
+      {
+        "answer": "Michael Phelps",
+        "clues": ["Swimming", "Olympics", "Gold Medals"]
+      },
+      {
+        "answer": "Andre Agassi",
+        "clues": ["Tennis", "American", "Grand Slam"]
+      },
+      {
+        "answer": "Babe Ruth",
+        "clues": ["Baseball", "New York Yankees", "Home Run King"]
+      },
+      {
+        "answer": "Mia Hamm",
+        "clues": ["Soccer", "USA", "Women's National Team"]
+      },
+      {
+        "answer": "Stephen Curry",
+        "clues": ["Basketball", "Golden State Warriors", "3-Point Shooter"]
+      },
+      {
+        "answer": "Neymar",
+        "clues": ["Football", "Brazil", "Paris Saint-Germain"]
+      },
+      {
+        "answer": "Bo Jackson",
+        "clues": ["Baseball", "Football", "Two Sports"]
+      },
+      {
+        "answer": "Zlatan Ibrahimovic",
+        "clues": ["Football", "Sweden", "Big Ego"]
+      },
+      {
+        "answer": "Brittney Griner",
+        "clues": ["Basketball", "WNBA", "Phoenix Mercury"]
+      },
+      {
+        "answer": "Kareem Abdul-Jabbar",
+        "clues": ["Basketball", "LA Lakers", "Skyhook"]
+      },
+      {
+        "answer": "Wayne Gretzky",
+        "clues": ["Hockey", "Canada", "The Great One"]
+      },
+      {
+        "answer": "Danica Patrick",
+        "clues": ["Racecar Driver", "IndyCar", "First Woman"]
+      },
+      {
+        "answer": "Mike Tyson",
+        "clues": ["Boxing", "Bite", "Heavyweight Champion"]
+      },
+      {
+        "answer": "Peyton Manning",
+        "clues": ["Football", "Quarterback", "Indianapolis Colts"]
+      },
+      {
+        "answer": "Katie Ledecky",
+        "clues": ["Swimming", "Olympics", "Freestyle"]
+      },
+      {
+        "answer": "Tommy Lasorda",
+        "clues": ["Baseball", "Manager", "Los Angeles Dodgers"]
+      },
+      {
+        "answer": "Jim Brown",
+        "clues": ["Football", "Cleveland Browns", "Legend"]
+      },
+      {
+        "answer": "Buster Posey",
+        "clues": ["Baseball", "San Francisco Giants", "Catcher"]
+      },
+      {
+        "answer": "Larry Bird",
+        "clues": ["Basketball", "Boston Celtics", "Bird Man"]
+      },
+      {
+        "answer": "Kareem Abdul-Jabbar",
+        "clues": ["Basketball", "LA Lakers", "Skyhook"]
+      }
+    ]
+  }
+  

@@ -10,13 +10,16 @@ public class HeadsUpGameManager : MonoBehaviour
     [SerializeField] private int pointsPerCorrectAnswer = 100;
     [SerializeField] private int pointDeductionPerHint = 25;
     [SerializeField] private int maxPointDeduction = 75;
+    [SerializeField] private float gameDuration = 60f; // Game time limit in seconds
     
     private List<Question> currentQuestions;
     private int currentQuestionIndex = -1;
     private bool isGameActive = false;
     private int currentScore = 0;
+    private int correctGuessesCount = 0;
     private int currentHintDeduction = 0;
     private List<int> availableHintIndices = new List<int>();
+    private float currentTime; // Current time remaining
     
     private void Awake()
     {
@@ -60,10 +63,41 @@ public class HeadsUpGameManager : MonoBehaviour
         StartGame();
     }
     
+    private void Update()
+    {
+        if (isGameActive)
+        {
+            // Update timer
+            if (currentTime > 0)
+            {
+                currentTime -= Time.deltaTime;
+                gameplayUI.UpdateTimerDisplay(currentTime);
+                
+                // Check if time's up
+                if (currentTime <= 0)
+                {
+                    currentTime = 0;
+                    EndGame();
+                }
+            }
+        }
+    }
+    
     public void StartGame()
     {
+        currentTime = gameDuration;
         isGameActive = true;
+        correctGuessesCount = 0;
+        gameplayUI.UpdateTimerDisplay(currentTime);
         NextQuestion();
+    }
+    
+    private void EndGame()
+    {
+        isGameActive = false;
+        
+        // Show game over screen with final score and correct guesses
+        gameplayUI.ShowGameOver(currentScore, correctGuessesCount);
     }
     
     private void NextQuestion()
@@ -112,6 +146,9 @@ public class HeadsUpGameManager : MonoBehaviour
         
         // Hide hint if it's showing
         gameplayUI.HideHint();
+        
+        // Increment correct guesses counter
+        correctGuessesCount++;
         
         // Add points for correct answer (minus any hint deductions)
         int pointsAwarded = pointsPerCorrectAnswer - currentHintDeduction;
@@ -212,12 +249,4 @@ public class HeadsUpGameManager : MonoBehaviour
             list[j] = temp;
         }
     }
-    
-    // public void SetTheme(string themeName)
-    // {
-    //     currentTheme = themeName;
-    //     currentQuestions = dataManager.GetQuestionsForTheme(themeName);
-    //     ShuffleQuestions();
-    //     currentQuestionIndex = -1;
-    // }
 }

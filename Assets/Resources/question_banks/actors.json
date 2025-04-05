@@ -1,0 +1,500 @@
+{
+    "themeName": "Actors",
+    "description": "Actors and actresses - 123 answers",
+    "visibleInBankEditor": false,
+    "questions": [
+      {
+        "answer": "Tom Hanks",
+        "clues": ["Forrest Gump", "Castaway", "Oscar Winner"]
+      },
+      {
+        "answer": "Meryl Streep",
+        "clues": ["Sophie's Choice", "The Devil Wears Prada", "Oscar Nominations"]
+      },
+      {
+        "answer": "Leonardo DiCaprio",
+        "clues": ["Titanic", "Inception", "Oscar Winner"]
+      },
+      {
+        "answer": "Scarlett Johansson",
+        "clues": ["Black Widow", "Marvel", "Marriage Story"]
+      },
+      {
+        "answer": "Brad Pitt",
+        "clues": ["Fight Club", "Once Upon a Time in Hollywood", "Hollywood Star"]
+      },
+      {
+        "answer": "Johnny Depp",
+        "clues": ["Pirates of the Caribbean", "Edward Scissorhands", "Captain Jack Sparrow"]
+      },
+      {
+        "answer": "Julia Roberts",
+        "clues": ["Pretty Woman", "Oscar Winner", "Runaway Bride"]
+      },
+      {
+        "answer": "Will Smith",
+        "clues": ["Fresh Prince of Bel-Air", "Men in Black", "Oscar Nominee"]
+      },
+      {
+        "answer": "Denzel Washington",
+        "clues": ["Training Day", "Equalizer", "Oscar Winner"]
+      },
+      {
+        "answer": "Angelina Jolie",
+        "clues": ["Maleficent", "Tomb Raider", "Humanitarian"]
+      },
+      {
+        "answer": "Morgan Freeman",
+        "clues": ["Shawshank Redemption", "Voice of God", "Oscar Winner"]
+      },
+      {
+        "answer": "Chris Hemsworth",
+        "clues": ["Thor", "Marvel", "Hunky Actor"]
+      },
+      {
+        "answer": "Emma Stone",
+        "clues": ["La La Land", "Oscar Winner", "Easy A"]
+      },
+      {
+        "answer": "Ryan Reynolds",
+        "clues": ["Deadpool", "Van Wilder", "Blake Lively's Husband"]
+      },
+      {
+        "answer": "Samuel L. Jackson",
+        "clues": ["Pulp Fiction", "Snakes on a Plane", "Marvel"]
+      },
+      {
+        "answer": "Robert Downey Jr.",
+        "clues": ["Iron Man", "Marvel", "Oscar Nominee"]
+      },
+      {
+        "answer": "Nicole Kidman",
+        "clues": ["The Others", "Oscar Winner", "Big Little Lies"]
+      },
+      {
+        "answer": "Keanu Reeves",
+        "clues": ["The Matrix", "John Wick", "Hollywood Icon"]
+      },
+      {
+        "answer": "Matthew McConaughey",
+        "clues": ["True Detective", "Oscar Winner", "Alright, Alright, Alright"]
+      },
+      {
+        "answer": "Harrison Ford",
+        "clues": ["Indiana Jones", "Star Wars", "Han Solo"]
+      },
+      {
+        "answer": "Cate Blanchett",
+        "clues": ["Elizabeth", "Lord of the Rings", "Oscar Winner"]
+      },
+      {
+        "answer": "Hugh Jackman",
+        "clues": ["Wolverine", "Les Misérables", "The Greatest Showman"]
+      },
+      {
+        "answer": "Charlize Theron",
+        "clues": ["Mad Max: Fury Road", "Oscar Winner", "Monster"]
+      },
+      {
+        "answer": "Jack Nicholson",
+        "clues": ["The Shining", "One Flew Over the Cuckoo's Nest", "Oscar Winner"]
+      },
+      {
+        "answer": "Al Pacino",
+        "clues": ["Scarface", "The Godfather", "Oscar Winner"]
+      },
+      {
+        "answer": "Tom Cruise",
+        "clues": ["Top Gun", "Mission Impossible", "Hollywood A-Lister"]
+      },
+      {
+        "answer": "Jodie Foster",
+        "clues": ["The Silence of the Lambs", "Taxi Driver", "Oscar Winner"]
+      },
+      {
+        "answer": "Bruce Willis",
+        "clues": ["Die Hard", "Action Star", "Pulp Fiction"]
+      },
+      {
+        "answer": "Matt Damon",
+        "clues": ["The Bourne Identity", "Good Will Hunting", "Oscar Winner"]
+      },
+      {
+        "answer": "Renee Zellweger",
+        "clues": ["Bridget Jones's Diary", "Oscar Winner", "Chicago"]
+      },
+      {
+        "answer": "Javier Bardem",
+        "clues": ["No Country for Old Men", "Skyfall", "Oscar Winner"]
+      },
+      {
+        "answer": "Helen Mirren",
+        "clues": ["The Queen", "Oscar Winner", "Red"]
+      },
+      {
+        "answer": "Emma Watson",
+        "clues": ["Hermione Granger", "Harry Potter", "Beauty and the Beast"]
+      },
+      {
+        "answer": "Viola Davis",
+        "clues": ["Fences", "Oscar Winner", "How to Get Away with Murder"]
+      },
+      {
+        "answer": "Gary Oldman",
+        "clues": ["Darkest Hour", "Oscar Winner", "Harry Potter"]
+      },
+      {
+        "answer": "Tom Hardy",
+        "clues": ["Venom", "Mad Max: Fury Road", "Inception"]
+      },
+      {
+        "answer": "Lupita Nyong'o",
+        "clues": ["12 Years a Slave", "Black Panther", "Oscar Winner"]
+      },
+      {
+        "answer": "Chris Pratt",
+        "clues": ["Guardians of the Galaxy", "Jurassic World", "Parks and Recreation"]
+      },
+      {
+        "answer": "Anne Hathaway",
+        "clues": ["Les Misérables", "The Princess Diaries", "The Devil Wears Prada"]
+      },
+      {
+        "answer": "Jeremy Renner",
+        "clues": ["The Avengers", "Hawkeye", "Mission Impossible"]
+      },
+      {
+        "answer": "Mark Ruffalo",
+        "clues": ["The Avengers", "Bruce Banner", "Oscar Nominee"]
+      },
+      {
+        "answer": "Amy Adams",
+        "clues": ["Arrival", "Enchanted", "Oscar Nominee"]
+      },
+      {
+        "answer": "Sally Field",
+        "clues": ["Forrest Gump", "Norma Rae", "Oscar Winner"]
+      },
+      {
+        "answer": "Richard Gere",
+        "clues": ["Pretty Woman", "Chicago", "American Gigolo"]
+      },
+      {
+        "answer": "Julia Louis-Dreyfus",
+        "clues": ["Seinfeld", "Veep", "Comedian"]
+      },
+      {
+        "answer": "Don Cheadle",
+        "clues": ["Hotel Rwanda", "Marvel", "Oscar Nominee"]
+      },
+      {
+        "answer": "Ben Affleck",
+        "clues": ["Good Will Hunting", "Batman", "Oscar Winner"]
+      },
+      {
+        "answer": "Zoe Saldana",
+        "clues": ["Avatar", "Guardians of the Galaxy", "Star Trek"]
+      },
+      {
+        "answer": "Eva Mendes",
+        "clues": ["The Place Beyond the Pines", "Hitch", "Hollywood Star"]
+      },
+      {
+        "answer": "Will Ferrell",
+        "clues": ["Anchorman", "Step Brothers", "Comedian"]
+      },
+      {
+        "answer": "Kate Winslet",
+        "clues": ["Titanic", "The Reader", "Oscar Winner"]
+      },
+      {
+        "answer": "Joseph Gordon-Levitt",
+        "clues": ["Inception", "500 Days of Summer", "Looper"]
+      },
+      {
+        "answer": "Zach Galifianakis",
+        "clues": ["The Hangover", "Comedian", "Actor"]
+      },
+      {
+        "answer": "Michael Fassbender",
+        "clues": ["X-Men", "Shame", "Steve Jobs"]
+      },
+      {
+        "answer": "Pedro Pascal",
+        "clues": ["The Mandalorian", "Game of Thrones", "Narcos"]
+      },
+      {
+        "answer": "Florence Pugh",
+        "clues": ["Midsommar", "Little Women", "Black Widow"]
+      },
+      {
+        "answer": "Timothée Chalamet",
+        "clues": ["Call Me by Your Name", "Dune", "Oscar Nominee"]
+      },
+      {
+        "answer": "Zendaya",
+        "clues": ["Euphoria", "Spider-Man", "Oscar Nominee"]
+      },
+      {
+        "answer": "Josh Brolin",
+        "clues": ["Thanos", "Avengers", "Deadpool 2"]
+      },
+      {
+        "answer": "Chadwick Boseman",
+        "clues": ["Black Panther", "Marvel", "Late Actor"]
+      },
+      {
+        "answer": "Dwayne Johnson",
+        "clues": ["The Rock", "Fast & Furious", "Jumanji"]
+      },
+      {
+        "answer": "Danai Gurira",
+        "clues": ["Michonne", "The Walking Dead", "Black Panther"]
+      },
+      {
+        "answer": "Letitia Wright",
+        "clues": ["Shuri", "Black Panther", "Marvel"]
+      },
+      {
+        "answer": "Karen Gillan",
+        "clues": ["Nebula", "Guardians of the Galaxy", "Doctor Who"]
+      },
+      {
+        "answer": "Paul Bettany",
+        "clues": ["Vision", "Marvel", "A Beautiful Mind"]
+      },
+      {
+        "answer": "Chris Evans",
+        "clues": ["Captain America", "Marvel", "The Avengers"]
+      },
+      {
+        "answer": "Kevin Hart",
+        "clues": ["Comedian", "Jumanji", "Ride Along"]
+      },
+      {
+        "answer": "Eiza González",
+        "clues": ["Baby Driver", "Hobbs & Shaw", "From Dusk Till Dawn"]
+      },
+      {
+        "answer": "Liam Neeson",
+        "clues": ["Taken", "Schindler's List", "Action Star"]
+      },
+      {
+        "answer": "Michael Peña",
+        "clues": ["Ant-Man", "Crash", "End of Watch"]
+      },
+      {
+        "answer": "Dave Bautista",
+        "clues": ["Drax", "Guardians of the Galaxy", "WWE Star"]
+      },
+      {
+        "answer": "Michael B. Jordan",
+        "clues": ["Black Panther", "Creed", "Fantastic Four"]
+      },
+      {
+        "answer": "Margot Robbie",
+        "clues": ["Harley Quinn", "The Wolf of Wall Street", "Birds of Prey"]
+      },
+      {
+        "answer": "Henry Golding",
+        "clues": ["Crazy Rich Asians", "Last Christmas", "Actor"]
+      },
+      {
+        "answer": "Woody Harrelson",
+        "clues": ["Zombieland", "The Hunger Games", "True Detective"]
+      },
+      {
+        "answer": "Sebastian Stan",
+        "clues": ["Bucky Barnes", "Marvel", "Winter Soldier"]
+      },
+      {
+        "answer": "Benedict Wong",
+        "clues": ["Doctor Strange", "Marvel", "The Martian"]
+      },
+      {
+        "answer": "Elizabeth Olsen",
+        "clues": ["Scarlet Witch", "Marvel", "WandaVision"]
+      },
+      {
+        "answer": "Pom Klementieff",
+        "clues": ["Mantis", "Guardians of the Galaxy", "Marvel"]
+      },
+      {
+        "answer": "Colin Farrell",
+        "clues": ["The Lobster", "In Bruges", "Fantastic Beasts"]
+      },
+      {
+        "answer": "Tiffany Haddish",
+        "clues": ["Girls Trip", "Comedian", "Night School"]
+      },
+      {
+        "answer": "Brie Larson",
+        "clues": ["Captain Marvel", "Room", "Oscar Winner"]
+      },
+      {
+        "answer": "Angela Bassett",
+        "clues": ["Black Panther", "American Horror Story", "What's Love Got to Do with It"]
+      },
+      {
+        "answer": "Paul Rudd",
+        "clues": ["Ant-Man", "Clueless", "Marvel"]
+      },
+      {
+        "answer": "Evangeline Lilly",
+        "clues": ["Lost", "Ant-Man", "The Hobbit"]
+      },
+      {
+        "answer": "Joonas Suotamo",
+        "clues": ["Chewbacca", "Star Wars", "Actor"]
+      },
+      {
+        "answer": "Ewan McGregor",
+        "clues": ["Obi-Wan Kenobi", "Trainspotting", "Moulin Rouge!"]
+      },
+      {
+        "answer": "Laurence Fishburne",
+        "clues": ["The Matrix", "John Wick", "Boys 'N the Hood"]
+      },
+      {
+        "answer": "Ben Mendelsohn",
+        "clues": ["Rogue One", "Animal Kingdom", "Spider-Man: Far From Home"]
+      },
+      {
+        "answer": "T.J. Miller",
+        "clues": ["Deadpool", "Silicon Valley", "Big Hero 6"]
+      },
+      {
+        "answer": "Simon Pegg",
+        "clues": ["Shaun of the Dead", "Star Trek", "Hot Fuzz"]
+      },
+      {
+        "answer": "Michelle Pfeiffer",
+        "clues": ["Batman Returns", "Scarface", "Ant-Man"]
+      },
+      {
+        "answer": "Lakeith Lee Stanfield",
+        "clues": ["Sorry to Bother You", "Judas and the Black Messiah", "Get Out"]
+      },
+      {
+        "answer": "Awkwafina",
+        "clues": ["Crazy Rich Asians", "The Farewell", "Comedian"]
+      },
+      {
+        "answer": "Hannah John-Kamen",
+        "clues": ["Ant-Man and the Wasp", "Ready Player One", "Killjoys"]
+      },
+      {
+        "answer": "Emily Blunt",
+        "clues": ["Edge of Tomorrow", "A Quiet Place", "Mary Poppins Returns"]
+      },
+      {
+        "answer": "John Cena",
+        "clues": ["Fast & Furious", "WWE", "Peacemaker"]
+      },
+      {
+        "answer": "Vin Diesel",
+        "clues": ["Fast & Furious", "Riddick", "XXX"]
+      },
+      {
+        "answer": "Jason Statham",
+        "clues": ["The Transporter", "Fast & Furious", "The Expendables"]
+      },
+      {
+        "answer": "Daniel Kaluuya",
+        "clues": ["Get Out", "Judas and the Black Messiah", "Black Panther"]
+      },
+      {
+        "answer": "Jamie Lee Curtis",
+        "clues": ["Halloween", "True Lies", "Freaky Friday"]
+      },
+      {
+        "answer": "Chris Pine",
+        "clues": ["Star Trek", "Wonder Woman", "Into the Woods"]
+      },
+      {
+        "answer": "Michelle Dockery",
+        "clues": ["Downton Abbey", "Good Behavior", "The Gentlemen"]
+      },
+      {
+        "answer": "Anya Taylor-Joy",
+        "clues": ["The Queen's Gambit", "The Witch", "Emma"]
+      },
+      {
+        "answer": "Julie Walters",
+        "clues": ["Harry Potter", "Mamma Mia!", "Educating Rita"]
+      },
+      {
+        "answer": "Colin Firth",
+        "clues": ["The King's Speech", "Bridget Jones", "Kingsman"]
+      },
+      {
+        "answer": "Constance Wu",
+        "clues": ["Crazy Rich Asians", "Fresh Off the Boat", "Hustlers"]
+      },
+      {
+        "answer": "John Boyega",
+        "clues": ["Star Wars", "Attack the Block", "They Cloned Tyrone"]
+      },
+      {
+        "answer": "Jack Black",
+        "clues": ["School of Rock", "Kung Fu Panda", "Jumanji"]
+      },
+      {
+        "answer": "Jeremy Renner",
+        "clues": ["The Avengers", "Mission Impossible", "Hawkeye"]
+      },
+      {
+        "answer": "Patrick Wilson",
+        "clues": ["The Conjuring", "Aquaman", "Insidious"]
+      },
+      {
+        "answer": "Lance Reddick",
+        "clues": ["John Wick", "The Wire", "Fringe"]
+      },
+      {
+        "answer": "Rose Byrne",
+        "clues": ["Bridesmaids", "X-Men: First Class", "Insidious"]
+      },
+      {
+        "answer": "Nick Jonas",
+        "clues": ["The Jonas Brothers", "Jumanji", "Camp Rock"]
+      },
+      {
+        "answer": "Adam Driver",
+        "clues": ["Star Wars", "Marriage Story", "Logan Lucky"]
+      },
+      {
+        "answer": "John David Washington",
+        "clues": ["Tenet", "BlacKkKlansman", "Ballers"]
+      },
+      {
+        "answer": "Cate Blanchett",
+        "clues": ["Blue Jasmine", "Lord of the Rings", "Thor: Ragnarok"]
+      },
+      {
+        "answer": "Tye Sheridan",
+        "clues": ["Ready Player One", "X-Men: Apocalypse", "The Tree of Life"]
+      },
+      {
+        "answer": "James McAvoy",
+        "clues": ["Split", "X-Men", "Atonement"]
+      },
+      {
+        "answer": "Brianna Hildebrand",
+        "clues": ["Deadpool", "Deadpool 2", "The Exorcist"]
+      },
+      {
+        "answer": "Mahershala Ali",
+        "clues": ["Moonlight", "True Detective", "Green Book"]
+      },
+      {
+        "answer": "Brad Pitt",
+        "clues": ["Fight Club", "Once Upon a Time in Hollywood", "12 Monkeys"]
+      },
+      {
+        "answer": "Daniel Radcliffe",
+        "clues": ["Harry Potter", "The Woman in Black", "Swiss Army Man"]
+      }   
+    ]
+  }
+  

@@ -28,6 +28,8 @@ public class ThemeSelectionManager : MonoBehaviour
         public string name;
         public string description;
         public TextAsset jsonFile;
+        public bool isUserCreated;
+        public string filePath;
     }
     
     private void Start()
@@ -46,14 +48,16 @@ public class ThemeSelectionManager : MonoBehaviour
     {
         availableThemes.Clear();
         
-        // Find all JSON files in Resources folder
-        TextAsset[] themeFiles = Resources.LoadAll<TextAsset>(questionBanksFolderPath);
+        // 1. Load built-in themes from Resources folder
+        TextAsset[] builtInThemeFiles = Resources.LoadAll<TextAsset>(questionBanksFolderPath);
+        LoadThemesFromResources(builtInThemeFiles);
         
-        if (themeFiles.Length == 0)
-        {
-            Debug.LogWarning($"No theme files found in Resources/{questionBanksFolderPath}. Make sure your files are in this directory.");
-        }
-        
+        // 2. Load user-created themes from persistent data path
+        LoadUserCreatedThemes();
+    }
+
+    private void LoadThemesFromResources(TextAsset[] themeFiles)
+    {
         foreach (TextAsset themeFile in themeFiles)
         {
             try
@@ -67,16 +71,61 @@ public class ThemeSelectionManager : MonoBehaviour
                     {
                         name = theme.themeName,
                         description = theme.description ?? "No description available",
-                        jsonFile = themeFile
+                        jsonFile = themeFile,
+                        isUserCreated = false
                     };
                     
                     availableThemes.Add(themeData);
-                    Debug.Log($"Loaded theme: {theme.themeName}");
+                    Debug.Log($"Loaded built-in theme: {theme.themeName}");
                 }
             }
             catch (System.Exception e)
             {
                 Debug.LogError($"Error loading theme file {themeFile.name}: {e.Message}");
+            }
+        }
+    }
+
+    private void LoadUserCreatedThemes()
+    {
+        string userThemesPath = Path.Combine(Application.persistentDataPath, "user_themes");
+        
+        // Skip if directory doesn't exist
+        if (!Directory.Exists(userThemesPath))
+            return;
+        
+        // Get all JSON files in user themes directory
+        string[] themeFiles = Directory.GetFiles(userThemesPath, "*.json");
+        
+        foreach (string filePath in themeFiles)
+        {
+            try
+            {
+                // Read file content
+                string json = File.ReadAllText(filePath);
+                Theme theme = JsonUtility.FromJson<Theme>(json);
+                
+                if (theme != null)
+                {
+                    // Create a TextAsset from the JSON (needed for ThemePassingManager)
+                    TextAsset jsonAsset = new TextAsset(json);
+                    
+                    ThemeData themeData = new ThemeData
+                    {
+                        name = theme.themeName,
+                        description = theme.description ?? "No description available",
+                        jsonFile = jsonAsset,
+                        isUserCreated = true,
+                        filePath = filePath // Store original path for reference
+                    };
+                    
+                    availableThemes.Add(themeData);
+                    Debug.Log($"Loaded user theme: {theme.themeName}");
+                }
+            }
+            catch (System.Exception e)
+            {
+                Debug.LogError($"Error loading user theme file {filePath}: {e.Message}");
             }
         }
     }
@@ -144,15 +193,20 @@ public class ThemeSelectionManager : MonoBehaviour
     {
         if (selectedTheme != null)
         {
-            // Store selected theme for the game scene
-            ThemePassingManager.SetSelectedTheme(selectedTheme.jsonFile);
+            // Pass the selected theme to the game scene
+            if (selectedTheme.isUserCreated)
+            {
+                // For user themes, we need to give the file path instead
+                ThemePassingManager.SetUserThemePath(selectedTheme.filePath);
+            }
+            else
+            {
+                // For built-in themes, use the TextAsset
+                ThemePassingManager.SetSelectedTheme(selectedTheme.jsonFile);
+            }
             
             // Load the game scene
             UnityEngine.SceneManagement.SceneManager.LoadScene("Gameplay");
-        }
-        else
-        {
-            Debug.LogWarning("No theme selected!");
         }
     }
 }

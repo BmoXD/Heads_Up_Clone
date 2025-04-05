@@ -1,0 +1,247 @@
+{
+  "themeName": "Jobs",
+  "description": "Jobs pack - 60 answers",
+  "visibleInBankEditor": false,
+  "questions": [
+    {
+      "answer": "Doctor",
+      "clues": ["Hospital", "Stethoscope", "Treats Patients"]
+    },
+    {
+      "answer": "Teacher",
+      "clues": ["Classroom", "Blackboard", "Homework"]
+    },
+    {
+      "answer": "Firefighter",
+      "clues": ["Hose", "Fire Truck", "Saves from Flames"]
+    },
+    {
+      "answer": "Police Officer",
+      "clues": ["Badge", "Patrol", "Law Enforcer"]
+    },
+    {
+      "answer": "Chef",
+      "clues": ["Kitchen", "Cook", "Recipes"]
+    },
+    {
+      "answer": "Pilot",
+      "clues": ["Cockpit", "Fly Planes", "Airline"]
+    },
+    {
+      "answer": "Nurse",
+      "clues": ["Hospital", "Cares for Patients", "Medical Support"]
+    },
+    {
+      "answer": "Lawyer",
+      "clues": ["Courtroom", "Defend or Prosecute", "Legal Advice"]
+    },
+    {
+      "answer": "Mechanic",
+      "clues": ["Car Repair", "Garage", "Tools"]
+    },
+    {
+      "answer": "Construction Worker",
+      "clues": ["Hard Hat", "Building", "Blueprints"]
+    },
+    {
+      "answer": "Artist",
+      "clues": ["Canvas", "Paint", "Creative"]
+    },
+    {
+      "answer": "Actor",
+      "clues": ["Stage", "Movie", "Role Play"]
+    },
+    {
+      "answer": "Musician",
+      "clues": ["Instrument", "Performs", "Music"]
+    },
+    {
+      "answer": "Photographer",
+      "clues": ["Camera", "Snapshots", "Editing"]
+    },
+    {
+      "answer": "Engineer",
+      "clues": ["Design", "Build", "Problem Solver"]
+    },
+    {
+      "answer": "Architect",
+      "clues": ["Blueprints", "Buildings", "Design"]
+    },
+    {
+      "answer": "Farmer",
+      "clues": ["Tractor", "Crops", "Harvest"]
+    },
+    {
+      "answer": "Librarian",
+      "clues": ["Books", "Quiet", "Organize"]
+    },
+    {
+      "answer": "Dentist",
+      "clues": ["Teeth", "Cavities", "Floss"]
+    },
+    {
+      "answer": "Pharmacist",
+      "clues": ["Medicine", "Prescriptions", "Pharmacy"]
+    },
+    {
+      "answer": "Plumber",
+      "clues": ["Pipes", "Leaks", "Wrench"]
+    },
+    {
+      "answer": "Electrician",
+      "clues": ["Wires", "Circuits", "Fix Power"]
+    },
+    {
+      "answer": "Journalist",
+      "clues": ["News", "Articles", "Reporter"]
+    },
+    {
+      "answer": "Scientist",
+      "clues": ["Lab", "Experiments", "Discovery"]
+    },
+    {
+      "answer": "Paramedic",
+      "clues": ["Ambulance", "Emergency", "First Aid"]
+    },
+    {
+      "answer": "Veterinarian",
+      "clues": ["Animals", "Pet Doctor", "Clinic"]
+    },
+    {
+      "answer": "Flight Attendant",
+      "clues": ["Airplane", "Safety Demo", "Passengers"]
+    },
+    {
+      "answer": "Waiter",
+      "clues": ["Restaurant", "Menu", "Serve Food"]
+    },
+    {
+      "answer": "Barista",
+      "clues": ["Coffee", "Espresso", "Cafe"]
+    },
+    {
+      "answer": "Janitor",
+      "clues": ["Clean", "Mop", "Maintenance"]
+    },
+    {
+      "answer": "Mail Carrier",
+      "clues": ["Deliver Letters", "Post Office", "Mailbox"]
+    },
+    {
+      "answer": "Model",
+      "clues": ["Fashion", "Runway", "Photoshoot"]
+    },
+    {
+      "answer": "Software Developer",
+      "clues": ["Code", "Computer", "Apps"]
+    },
+    {
+      "answer": "Web Designer",
+      "clues": ["HTML", "Layouts", "User Interface"]
+    },
+    {
+      "answer": "Graphic Designer",
+      "clues": ["Logos", "Illustration", "Visuals"]
+    },
+    {
+      "answer": "Data Analyst",
+      "clues": ["Charts", "Trends", "Numbers"]
+    },
+    {
+      "answer": "Accountant",
+      "clues": ["Taxes", "Balance Sheets", "Money"]
+    },
+    {
+      "answer": "Banker",
+      "clues": ["Loans", "Finance", "Teller"]
+    },
+    {
+      "answer": "Entrepreneur",
+      "clues": ["Startup", "Business", "Founder"]
+    },
+    {
+      "answer": "Salesperson",
+      "clues": ["Products", "Customer", "Commission"]
+    },
+    {
+      "answer": "Marketing Manager",
+      "clues": ["Campaigns", "Advertising", "Strategy"]
+    },
+    {
+      "answer": "Social Media Manager",
+      "clues": ["Posts", "Followers", "Content"]
+    },
+    {
+      "answer": "Therapist",
+      "clues": ["Talk", "Mental Health", "Counseling"]
+    },
+    {
+      "answer": "Translator",
+      "clues": ["Language", "Interpret", "Multilingual"]
+    },
+    {
+      "answer": "Tour Guide",
+      "clues": ["Visitors", "Explaining", "Landmarks"]
+    },
+    {
+      "answer": "Athlete",
+      "clues": ["Sports", "Competition", "Training"]
+    },
+    {
+      "answer": "Coach",
+      "clues": ["Whistle", "Team", "Motivate"]
+    },
+    {
+      "answer": "Zookeeper",
+      "clues": ["Animals", "Cages", "Feeding Time"]
+    },
+    {
+      "answer": "Game Developer",
+      "clues": ["Video Games", "Coding", "Design"]
+    },
+    {
+      "answer": "Animator",
+      "clues": ["Cartoons", "Movement", "Frames"]
+    },
+    {
+      "answer": "Magician",
+      "clues": ["Tricks", "Illusion", "Rabbit in Hat"]
+    },
+    {
+      "answer": "Baker",
+      "clues": ["Bread", "Oven", "Pastries"]
+    },
+    {
+      "answer": "Butcher",
+      "clues": ["Meat", "Knife", "Cuts"]
+    },
+    {
+      "answer": "Tailor",
+      "clues": ["Clothing", "Alterations", "Sewing Machine"]
+    },
+    {
+      "answer": "Pilot Instructor",
+      "clues": ["Flight School", "Training", "Simulators"]
+    },
+    {
+      "answer": "Park Ranger",
+      "clues": ["Nature", "Trails", "Wildlife"]
+    },
+    {
+      "answer": "Security Guard",
+      "clues": ["Protect", "Monitor", "Surveillance"]
+    },
+    {
+      "answer": "Clown",
+      "clues": ["Circus", "Red Nose", "Jokes"]
+    },
+    {
+      "answer": "DJ",
+      "clues": ["Music", "Turntables", "Party"]
+    },
+    {
+      "answer": "YouTuber",
+      "clues": ["Videos", "Content Creator", "Subscribers"]
+    }
+  ]
+}

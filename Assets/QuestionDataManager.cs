@@ -13,6 +13,7 @@ public class Theme
 {
     public string themeName;
     public string description;
+    public bool visibleInBankEditor = true; // Default to true for user-created themes
     public List<Question> questions;
 }
 

@@ -1,0 +1,259 @@
+{
+  "themeName": "Sports Terminology",
+  "description": "Sports terminology pack - 63 answers",
+  "visibleInBankEditor": false,
+  "questions": [
+    {
+      "answer": "Offside",
+      "clues": ["Football", "Penalty", "Position"]
+    },
+    {
+      "answer": "Home Run",
+      "clues": ["Baseball", "Hit", "Over the Fence"]
+    },
+    {
+      "answer": "Dunk",
+      "clues": ["Basketball", "Hoop", "Jump"]
+    },
+    {
+      "answer": "Ace",
+      "clues": ["Tennis", "Serve", "Point"]
+    },
+    {
+      "answer": "Goalie",
+      "clues": ["Hockey", "Defense", "Save"]
+    },
+    {
+      "answer": "Touchdown",
+      "clues": ["Football", "End Zone", "Score"]
+    },
+    {
+      "answer": "Triple Double",
+      "clues": ["Basketball", "Points", "Assists"]
+    },
+    {
+      "answer": "Strike",
+      "clues": ["Bowling", "Pins", "Roll"]
+    },
+    {
+      "answer": "Free Throw",
+      "clues": ["Basketball", "Foul", "Uncontested"]
+    },
+    {
+      "answer": "Penalty Kick",
+      "clues": ["Soccer", "Foul", "Goal"]
+    },
+    {
+      "answer": "Alley-Oop",
+      "clues": ["Basketball", "Assist", "Dunk"]
+    },
+    {
+      "answer": "Hat Trick",
+      "clues": ["Hockey", "Three Goals", "Achievement"]
+    },
+    {
+      "answer": "Touchline",
+      "clues": ["Soccer", "Field", "Out of Bounds"]
+    },
+    {
+      "answer": "Slam Dunk",
+      "clues": ["Basketball", "High Jump", "Basket"]
+    },
+    {
+      "answer": "Overtime",
+      "clues": ["Extra Time", "Tied Game", "Playoffs"]
+    },
+    {
+      "answer": "Field Goal",
+      "clues": ["Football", "Kick", "Score"]
+    },
+    {
+      "answer": "Layup",
+      "clues": ["Basketball", "Close Range", "Shot"]
+    },
+    {
+      "answer": "Quarterback",
+      "clues": ["Football", "Leader", "Pass"]
+    },
+    {
+      "answer": "Substitute",
+      "clues": ["Soccer", "Player Change", "Bench"]
+    },
+    {
+      "answer": "Crossover",
+      "clues": ["Basketball", "Dribble", "Move"]
+    },
+    {
+      "answer": "Bunt",
+      "clues": ["Baseball", "Bat", "Short Hit"]
+    },
+    {
+      "answer": "Jab",
+      "clues": ["Boxing", "Punch", "Quick"]
+    },
+    {
+      "answer": "Kickoff",
+      "clues": ["Football", "Start", "Field"]
+    },
+    {
+      "answer": "MVP",
+      "clues": ["Most Valuable Player", "Award", "Best Player"]
+    },
+    {
+      "answer": "Blowout",
+      "clues": ["One-Sided", "Game", "Dominance"]
+    },
+    {
+      "answer": "Dribble",
+      "clues": ["Basketball", "Control", "Ball"]
+    },
+    {
+      "answer": "Home Court Advantage",
+      "clues": ["Basketball", "Familiar", "Arena"]
+    },
+    {
+      "answer": "Red Card",
+      "clues": ["Soccer", "Foul", "Ejected"]
+    },
+    {
+      "answer": "Infield",
+      "clues": ["Baseball", "Diamond", "Players"]
+    },
+    {
+      "answer": "Serve",
+      "clues": ["Tennis", "Start", "Ball"]
+    },
+    {
+      "answer": "Huddle",
+      "clues": ["Football", "Team", "Strategy"]
+    },
+    {
+      "answer": "Throw-In",
+      "clues": ["Soccer", "Out of Bounds", "Restart"]
+    },
+    {
+      "answer": "Power Play",
+      "clues": ["Hockey", "Advantage", "Penalty"]
+    },
+    {
+      "answer": "Backhand",
+      "clues": ["Tennis", "Shot", "Opposite Hand"]
+    },
+    {
+      "answer": "Circuit",
+      "clues": ["Formula 1", "Track", "Race"]
+    },
+    {
+      "answer": "Dive",
+      "clues": ["Soccer", "Goalkeeper", "Save"]
+    },
+    {
+      "answer": "Pin",
+      "clues": ["Wrestling", "Takedown", "Hold"]
+    },
+    {
+      "answer": "Tackle",
+      "clues": ["Football", "Defense", "Hit"]
+    },
+    {
+      "answer": "Homerun",
+      "clues": ["Baseball", "Fence", "Hit"]
+    },
+    {
+      "answer": "Drift",
+      "clues": ["Racing", "Car", "Slide"]
+    },
+    {
+      "answer": "Crossbar",
+      "clues": ["Soccer", "Goal", "Top"]
+    },
+    {
+      "answer": "Penalty Box",
+      "clues": ["Hockey", "Foul", "Sit Out"]
+    },
+    {
+      "answer": "Fastbreak",
+      "clues": ["Basketball", "Transition", "Quick"]
+    },
+    {
+      "answer": "Touchdown",
+      "clues": ["Football", "End Zone", "Score"]
+    },
+    {
+      "answer": "Puck",
+      "clues": ["Hockey", "Disk", "Ice"]
+    },
+    {
+      "answer": "Full-Court Press",
+      "clues": ["Basketball", "Defense", "Pressure"]
+    },
+    {
+      "answer": "No-Look Pass",
+      "clues": ["Basketball", "Assist", "Behind the Back"]
+    },
+    {
+      "answer": "Fastball",
+      "clues": ["Baseball", "Pitch", "Speed"]
+    },
+    {
+      "answer": "Hat Trick",
+      "clues": ["Hockey", "Three Goals", "Achievement"]
+    },
+    {
+      "answer": "Field Goal",
+      "clues": ["Football", "Kick", "Score"]
+    },
+    {
+      "answer": "Safety",
+      "clues": ["Football", "End Zone", "Two Points"]
+    },
+    {
+      "answer": "Overhead Kick",
+      "clues": ["Soccer", "Goal", "Acrobatic"]
+    },
+    {
+      "answer": "Shooting Guard",
+      "clues": ["Basketball", "Position", "Offense"]
+    },
+    {
+      "answer": "Buzzer Beater",
+      "clues": ["Basketball", "Final Shot", "Game Time"]
+    },
+    {
+      "answer": "Grand Slam",
+      "clues": ["Tennis", "Four Tournaments", "Championship"]
+    },
+    {
+      "answer": "Drift",
+      "clues": ["Car", "Race", "Slide"]
+    },
+    {
+      "answer": "Boxing Gloves",
+      "clues": ["Fight", "Punch", "Protect"]
+    },
+    {
+      "answer": "Safety Net",
+      "clues": ["Circus", "Trampolines", "Protection"]
+    },
+    {
+      "answer": "Throwdown",
+      "clues": ["Basketball", "Dunk", "Challenge"]
+    },
+    {
+      "answer": "Clearance",
+      "clues": ["Soccer", "Defense", "Ball Out"]
+    },
+    {
+      "answer": "Kickoff",
+      "clues": ["Football", "Start", "Game"]
+    },
+    {
+      "answer": "Rebound",
+      "clues": ["Basketball", "Missed Shot", "Grab"]
+    },
+    {
+      "answer": "Penalty Shot",
+      "clues": ["Soccer", "Foul", "Free Kick"]
+    }
+  ]
+}

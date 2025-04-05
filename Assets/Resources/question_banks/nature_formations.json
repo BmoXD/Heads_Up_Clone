@@ -1,0 +1,272 @@
+{
+    "themeName": "Nature formations",
+    "description": "Nature formations pack - 66 answers",
+    "visibleInBankEditor": false,
+    "questions": [
+    {
+      "answer": "Waterfall",
+      "clues": ["Cascading water", "Formed by erosion", "Niagara is famous"]
+    },
+    {
+      "answer": "Canyon",
+      "clues": ["Deep gorge", "Carved by rivers", "Grand Canyon is iconic"]
+    },
+    {
+      "answer": "Glacier",
+      "clues": ["Slow-moving ice mass", "Forms moraines", "Climate change indicator"]
+    },
+    {
+      "answer": "Volcano",
+      "clues": ["Magma eruption", "Ring of Fire", "Mount Fuji is one"]
+    },
+    {
+      "answer": "Geyser",
+      "clues": ["Hot water eruption", "Yellowstone has many", "Steam-driven"]
+    },
+    {
+      "answer": "Fjord",
+      "clues": ["Glacial valley", "Flooded by sea", "Norway has many"]
+    },
+    {
+      "answer": "Delta",
+      "clues": ["River mouth deposit", "Fertile land", "Nile has a large one"]
+    },
+    {
+      "answer": "Atoll",
+      "clues": ["Ring-shaped reef", "Coral formation", "Pacific Ocean feature"]
+    },
+    {
+      "answer": "Oasis",
+      "clues": ["Desert water source", "Palm trees grow here", "Mirage contrast"]
+    },
+    {
+      "answer": "Tundra",
+      "clues": ["Treeless Arctic biome", "Permafrost", "Caribou habitat"]
+    },
+    {
+      "answer": "Savanna",
+      "clues": ["Grassland with trees", "Lion territory", "African ecosystem"]
+    },
+    {
+      "answer": "Rainforest",
+      "clues": ["Dense jungle", "High biodiversity", "Amazon is the largest"]
+    },
+    {
+      "answer": "Marsh",
+      "clues": ["Wetland with reeds", "Migratory bird stop", "Waterlogged soil"]
+    },
+    {
+      "answer": "Swamp",
+      "clues": ["Forested wetland", "Alligator habitat", "Often murky"]
+    },
+    {
+      "answer": "Estuary",
+      "clues": ["Where river meets sea", "Brackish water", "Rich in nutrients"]
+    },
+    {
+      "answer": "Lagoon",
+      "clues": ["Shallow coastal water", "Separated by barrier", "Turquoise color"]
+    },
+    {
+      "answer": "Archipelago",
+      "clues": ["Island chain", "Indonesia is one", "Volcanic or coral"]
+    },
+    {
+      "answer": "Peninsula",
+      "clues": ["Land surrounded by water on 3 sides", "Florida is one", "Often strategic"]
+    },
+    {
+      "answer": "Isthmus",
+      "clues": ["Narrow land bridge", "Connects larger lands", "Panama is famous"]
+    },
+    {
+      "answer": "Plateau",
+      "clues": ["Flat elevated land", "Grand Canyon sits on one", "Also called mesa"]
+    },
+    {
+      "answer": "Mesa",
+      "clues": ["Flat-topped hill", "Southwestern US feature", "Spanish for 'table'"]
+    },
+    {
+      "answer": "Butte",
+      "clues": ["Isolated steep hill", "Smaller than a mesa", "Monument Valley has them"]
+    },
+    {
+      "answer": "Dune",
+      "clues": ["Sand mound", "Shifts with wind", "Sahara has vast ones"]
+    },
+    {
+      "answer": "Crevasse",
+      "clues": ["Deep crack in ice", "Glacier hazard", "Hidden danger"]
+    },
+    {
+      "answer": "Moraine",
+      "clues": ["Glacial debris pile", "Marks past ice movement", "Rocky ridge"]
+    },
+    {
+      "answer": "Cirque",
+      "clues": ["Glacial bowl", "Forms alpine lakes", "Carved by ice"]
+    },
+    {
+      "answer": "Stalactite",
+      "clues": ["Hangs from caves", "Calcium carbonate", "Grows downward"]
+    },
+    {
+      "answer": "Stalagmite",
+      "clues": ["Rises from cave floors", "Meets stalactites", "Mineral deposit"]
+    },
+    {
+      "answer": "Karst",
+      "clues": ["Limestone terrain", "Sinkholes common", "Underground rivers"]
+    },
+    {
+      "answer": "Sinkhole",
+      "clues": ["Collapsed ground", "Karst landscape feature", "Swallows cars"]
+    },
+    {
+      "answer": "HotSpring",
+      "clues": ["Geothermal water", "Mineral-rich", "Often turquoise"]
+    },
+    {
+      "answer": "Fumarole",
+      "clues": ["Volcanic gas vent", "Steam emission", "Yellowstone has many"]
+    },
+    {
+      "answer": "LavaTube",
+      "clues": ["Volcanic cave", "Formed by flowing lava", "Hawaii has many"]
+    },
+    {
+      "answer": "Caldera",
+      "clues": ["Volcanic crater", "Formed by collapse", "Yellowstone is one"]
+    },
+    {
+      "answer": "Tsunami",
+      "clues": ["Giant ocean wave", "Caused by earthquakes", "Devastating coastal impact"]
+    },
+    {
+      "answer": "Aurora",
+      "clues": ["Polar lights", "Solar wind effect", "Green or pink glow"]
+    },
+    {
+      "answer": "Monsoon",
+      "clues": ["Seasonal heavy rain", "India depends on it", "Winds reverse direction"]
+    },
+    {
+      "answer": "Tornado",
+      "clues": ["Rotating air column", "Funnel-shaped", "Midwest US is prone"]
+    },
+    {
+      "answer": "Hurricane",
+      "clues": ["Tropical cyclone", "Category 1-5", "Eye in the center"]
+    },
+    {
+      "answer": "Blizzard",
+      "clues": ["Severe snowstorm", "High winds", "Whiteout conditions"]
+    },
+    {
+      "answer": "Avalanche",
+      "clues": ["Snow landslide", "Triggered by sound or slope", "Deadly to skiers"]
+    },
+    {
+      "answer": "Mirage",
+      "clues": ["Optical illusion", "Desert phenomenon", "Fake water appearance"]
+    },
+    {
+      "answer": "Tide",
+      "clues": ["Ocean level change", "Moon’s gravitational pull", "High and low cycles"]
+    },
+    {
+      "answer": "Riptide",
+      "clues": ["Dangerous current", "Pulls swimmers seaward", "Parallel to shore"]
+    },
+    {
+      "answer": "Whirlpool",
+      "clues": ["Spinning water vortex", "Charybdis in myths", "Dangerous to ships"]
+    },
+    {
+      "answer": "Eclipse",
+      "clues": ["Sun or moon obscured", "Total or partial", "Rare celestial event"]
+    },
+    {
+      "answer": "MeteorShower",
+      "clues": ["Streaking space debris", "Perseids are famous", "Best seen at night"]
+    },
+    {
+      "answer": "Rainbow",
+      "clues": ["Multicolored arc", "Sunlight refracts in rain", "ROYGBIV colors"]
+    },
+    {
+      "answer": "Fog",
+      "clues": ["Low-lying clouds", "Reduces visibility", "Common near water"]
+    },
+    {
+      "answer": "Hail",
+      "clues": ["Ice pellets", "Thunderstorm byproduct", "Damages crops"]
+    },
+    {
+      "answer": "Frost",
+      "clues": ["Ice crystals on surfaces", "Forms on cold nights", "Kills sensitive plants"]
+    },
+    {
+      "answer": "Dew",
+      "clues": ["Morning moisture", "Condensation on grass", "Spiderweb adornment"]
+    },
+    {
+      "answer": "Lightning",
+      "clues": ["Electric discharge", "Thunder follows", "Can start fires"]
+    },
+    {
+      "answer": "Thunder",
+      "clues": ["Sound from lightning", "Caused by rapid air expansion", "Boom or rumble"]
+    },
+    {
+      "answer": "Hailstorm",
+      "clues": ["Ice ball precipitation", "Damages cars and roofs", "Severe weather"]
+    },
+    {
+      "answer": "Drought",
+      "clues": ["Prolonged dry period", "Crop failure risk", "Water shortages"]
+    },
+    {
+      "answer": "Flood",
+      "clues": ["Water overflow", "Riverbanks breached", "Natural disaster"]
+    },
+    {
+      "answer": "Wildfire",
+      "clues": ["Uncontrolled forest fire", "Spread by wind", "Drought increases risk"]
+    },
+    {
+      "answer": "Geothermal",
+      "clues": ["Earth’s heat energy", "Used for power", "Hot springs and geysers"]
+    },
+    {
+      "answer": "Sedimentary",
+      "clues": ["Rock formed in layers", "Fossils often found", "Sandstone is one"]
+    },
+    {
+      "answer": "Igneous",
+      "clues": ["Volcanic rock", "Basalt or granite", "Cooled magma"]
+    },
+    {
+      "answer": "Metamorphic",
+      "clues": ["Rock transformed by heat/pressure", "Marble is one", "From existing rock"]
+    },
+    {
+      "answer": "Fossil",
+      "clues": ["Preserved ancient life", "Found in sedimentary rock", "Dinosaur bones"]
+    },
+    {
+      "answer": "Coral Reef",
+      "clues": ["Underwater ecosystem", "Built by polyps", "Great Barrier Reef is largest"]
+    },
+    {
+      "answer": "Tide Pool",
+      "clues": ["Coastal rocky pool", "Marine life trapped at low tide", "Starfish habitat"]
+    },
+    {
+      "answer": "Wetland",
+      "clues": ["Land saturated with water", "Marshes and swamps", "Bird sanctuary"]
+      }
+    ]
+}
+  

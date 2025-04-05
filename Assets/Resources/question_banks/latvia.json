@@ -1,0 +1,631 @@
+{
+    "themeName": "Latvia",
+    "description": "Latvia word pack - 156 answers",
+    "visibleInBankEditor": false,
+    "questions": [
+      {
+        "answer": "Riga",
+        "clues": ["Capital of Latvia", "Daugava River", "Art Nouveau architecture"]
+      },
+      {
+        "answer": "Daugava",
+        "clues": ["Longest river in Latvia", "Flows through Riga", "Also called the 'River of Destiny'"]
+      },
+      {
+        "answer": "Ligo",
+        "clues": ["Midsummer festival", "Celebrated on June 23-24", "Bonfires and oak leaf wreaths"]
+      },
+      {
+        "answer": "Janis",
+        "clues": ["Common Latvian name", "Associated with Ligo", "Means 'John' in English"]
+      },
+      {
+        "answer": "Venta",
+        "clues": ["River in western Latvia", "Home to the widest waterfall in Europe", "Flows through Kuldīga"]
+      },
+      {
+        "answer": "Saulkrasti",
+        "clues": ["Seaside town", "Known for its white sand beach", "Name means 'Sun Shore'"]
+      },
+      {
+        "answer": "Gauja",
+        "clues": ["National park", "River in northern Latvia", "Sigulda is located here"]
+      },
+      {
+        "answer": "Liepaja",
+        "clues": ["City known as 'The City of Wind'", "Home to the Baltic Sea's white sand beaches", "Latvia's third-largest city"]
+      },
+      {
+        "answer": "Cesis",
+        "clues": ["Medieval castle town", "One of Latvia's oldest cities", "Famous for its historic ruins"]
+      },
+      {
+        "answer": "Jelgava",
+        "clues": ["Former capital of Courland", "Home to the Jelgava Palace", "Located near the Lielupe River"]
+      },
+      {
+        "answer": "Ventspils",
+        "clues": ["Important port city", "Known for its blue flag beaches", "Features a historic castle"]
+      },
+      {
+        "answer": "Kuldiga",
+        "clues": ["Home to Europe's widest waterfall", "Historic brick bridge", "Once the capital of Courland"]
+      },
+      {
+        "answer": "Sigulda",
+        "clues": ["Known as the 'Switzerland of Latvia'", "Famous for bobsleigh track", "Located in Gauja National Park"]
+      },
+      {
+        "answer": "Jurmala",
+        "clues": ["Famous seaside resort", "Known for wooden architecture", "Longest beach in Latvia"]
+      },
+      {
+        "answer": "Lielupe",
+        "clues": ["River near Jurmala", "Name means 'Big River'", "Flows into the Baltic Sea"]
+      },
+      {
+        "answer": "Dzintars",
+        "clues": ["Amber", "Known as 'Baltic gold'", "Often found on Latvian beaches"]
+      },
+      {
+        "answer": "Latvija",
+        "clues": ["Name of Latvia in Latvian", "Declared independence in 1918", "Baltic country"]
+      },
+      {
+        "answer": "Lats",
+        "clues": ["Former Latvian currency", "Replaced by the Euro in 2014", "Symbol: Ls"]
+      },
+      {
+        "answer": "Euro",
+        "clues": ["Current Latvian currency", "Adopted in 2014", "Replaced the lats"]
+      },
+      {
+        "answer": "Baltic Way",
+        "clues": ["1989 protest against Soviet rule", "Human chain across Baltic states", "Over 2 million participants"]
+      },
+      {
+        "answer": "Barikades",
+        "clues": ["1991 Soviet OMON attacks", "Defense of Latvian independence", "January events in Riga"]
+      },
+      {
+        "answer": "Ugunskrusts",
+        "clues": ["Thunder Cross", "Ancient Latvian symbol", "Used by pre-Christian Balts"]
+      },
+      {
+        "answer": "Dievs",
+        "clues": ["Supreme god in Latvian mythology", "Associated with the sky", "Similar to Zeus or Odin"]
+      },
+      {
+        "answer": "Laima",
+        "clues": ["Goddess of fate", "Similar to the Norse Norns", "Decides destiny in folklore"]
+      },
+      {
+        "answer": "Perkons",
+        "clues": ["God of thunder", "Wields an axe", "Similar to Thor"]
+      },
+      {
+        "answer": "Auseklis",
+        "clues": ["Morning Star deity", "Symbol of light", "Associated with Venus"]
+      },
+      {
+        "answer": "Kokle",
+        "clues": ["Traditional Latvian instrument", "Similar to a zither", "National symbol of music"]
+      },
+      {
+        "answer": "Dainas",
+        "clues": ["Traditional Latvian folk songs", "Short poetic verses", "UNESCO cultural heritage"]
+      },
+      {
+        "answer": "Rudens",
+        "clues": ["Autumn", "Season of harvest", "Celebrated in Latvian folklore"]
+      },
+      {
+        "answer": "Ziemassvetki",
+        "clues": ["Winter solstice festival", "Celebrated in December", "Pre-Christian origins"]
+      },
+      {
+        "answer": "Martins",
+        "clues": ["Name linked to Martin's Day", "Celebrated in November", "Horse-riding processions"]
+      },
+      {
+        "answer": "Meteņi",
+        "clues": ["Shrovetide festival", "Celebrated before Lent", "Sledding and pancake-eating"]
+      },
+      {
+        "answer": "Jumis",
+        "clues": ["Agricultural deity", "Symbol of fertility", "Depicted as a double fruit"]
+      },
+      {
+        "answer": "Rasa",
+        "clues": ["Dew", "Celebrated in summer solstice", "Symbol of purity"]
+      },
+      {
+        "answer": "Amatnieks",
+        "clues": ["Craftsman", "Traditional Latvian artisan", "Works with wood or metal"]
+      },
+      {
+        "answer": "Sklandrausis",
+        "clues": ["Traditional Latvian pie", "Made with rye crust", "Filled with carrots and potatoes"]
+      },
+      {
+        "answer": "Rupjmaize",
+        "clues": ["Dark rye bread", "Staple Latvian food", "Often eaten with cheese"]
+      },
+      {
+        "answer": "Kvass",
+        "clues": ["Fermented bread drink", "Popular in summer", "Slightly alcoholic"]
+      },
+      {
+        "answer": "Biezpiena Siers",
+        "clues": ["Cottage cheese dessert", "Sweetened with fruit", "Similar to curd snack"]
+      },
+      {
+        "answer": "Alus",
+        "clues": ["Beer", "Popular Latvian drink", "Many local breweries"]
+      },
+      {
+        "answer": "Kartupeli",
+        "clues": ["Potatoes", "Staple Latvian food", "Used in many dishes"]
+      },
+      {
+        "answer": "Klingeris",
+        "clues": ["Latvian gingerbread", "Often heart-shaped", "Decorated with icing"]
+      },
+      {
+        "answer": "Piragi",
+        "clues": ["Bacon-filled pastries", "Traditional Latvian snack", "Often served at celebrations"]
+      },
+      {
+        "answer": "Lielvarde belt",
+        "clues": ["Traditional Latvian woven belt", "Used in folk costumes", "Symbolic patterns"]
+      },
+      {
+        "answer": "Vilki",
+        "clues": ["Wolves", "Symbolic in Latvian folklore", "Represent strength"]
+      },
+      {
+        "answer": "Lacplesis",
+        "clues": ["Bear-slayer", "Latvian folk hero", "Tore a bear's jaws apart"]
+      },
+      {
+        "answer": "Staburadze",
+        "clues": ["Mythical maiden of the cliffs", "Guardian of Gauja River", "Legendary figure"]
+      },
+      {
+        "answer": "Rainis",
+        "clues": ["Famous Latvian poet", "Wrote 'The Golden Horse'", "Key figure in national awakening"]
+      },
+      {
+        "answer": "Aspazija",
+        "clues": ["Latvian poet and playwright", "Married to Rainis", "Feminist icon"]
+      },
+      {
+        "answer": "Barons",
+        "clues": ["Krišjānis Barons", "Collected Latvian folk songs", "Known as the 'Father of Dainas'"]
+      },
+      {
+        "answer": "Blumentals",
+        "clues": ["Alfreds Blumentāls", "Latvian inventor", "Created the miniature camera"]
+      },
+      {
+        "answer": "Rezekne",
+        "clues": ["City in eastern Latvia", "Known as the 'Heart of Latgale'", "Cultural hub"]
+      },
+      {
+        "answer": "Ludza",
+        "clues": ["Oldest town in Latvia", "Located in Latgale", "Known for its lakes"]
+      },
+      {
+        "answer": "Dobele",
+        "clues": ["Town in Zemgale", "Known for its castle ruins", "Famous for apple orchards"]
+      },
+      {
+        "answer": "Talsi",
+        "clues": ["Town in Kurzeme", "Known as the 'Town of Nine Hills'", "Picturesque lakes"]
+      },
+      {
+        "answer": "Valmiera",
+        "clues": ["City in northern Latvia", "Home to a famous theater festival", "On the Gauja River"]
+      },
+      {
+        "answer": "Bauska",
+        "clues": ["Town in Zemgale", "Home to Bauska Castle", "Near the Lithuanian border"]
+      },
+      {
+        "answer": "Aizkraukle",
+        "clues": ["Town on the Daugava River", "Near the Pļaviņas Hydroelectric Plant", "Name means 'Beyond the Rapids'"]
+      },
+      {
+        "answer": "Ogres",
+        "clues": ["Town near Riga", "Name means 'Pike'", "Popular for nature trails"]
+      },
+      {
+        "answer": "Salaspils",
+        "clues": ["Town near Riga", "Site of a WWII concentration camp", "Memorial complex"]
+      },
+      {
+        "answer": "Daugavpils",
+        "clues": ["Second-largest city in Latvia", "Located in Latgale", "Famous for its fortress"]
+      },
+      {
+        "answer": "Livani",
+        "clues": ["Town in Latgale", "Known for glass production", "On the Daugava River"]
+      },
+      {
+        "answer": "Kraslava",
+        "clues": ["Town in Latgale", "Known for its historic manor", "Near the Belarus border"]
+      },
+      {
+        "answer": "Madona",
+        "clues": ["Town in Vidzeme", "Surrounded by forests", "Popular for winter sports"]
+      },
+      {
+        "answer": "Gulbene",
+        "clues": ["Town in Vidzeme", "Famous for its narrow-gauge railway", "Scenic countryside"]
+      },
+      {
+        "answer": "Aluksne",
+        "clues": ["Town in Vidzeme", "Known for its lake and castle", "Part of the Livonian Order history"]
+      },
+      {
+        "answer": "Balvi",
+        "clues": ["Town in Latgale", "Known for its lakes", "Remote and scenic"]
+      },
+      {
+        "answer": "Valka",
+        "clues": ["Town on the Estonian border", "Twin city with Valga", "Divided by a river"]
+      },
+      {
+        "answer": "Smiltene",
+        "clues": ["Town in Vidzeme", "Known for its castle ruins", "Surrounded by forests"]
+      },
+      {
+        "answer": "Limbazi",
+        "clues": ["Town in Vidzeme", "One of Latvia's oldest towns", "Historic Hanseatic connections"]
+      },
+      {
+        "answer": "Kegums",
+        "clues": ["Town on the Daugava", "Site of a hydroelectric plant", "Near Riga"]
+      },
+      {
+        "answer": "Plavinas",
+        "clues": ["Town on the Daugava", "Site of a major hydroelectric dam", "Important for energy"]
+      },
+      {
+        "answer": "Aizpute",
+        "clues": ["Historic town in Kurzeme", "Known for its medieval castle", "Part of the Hanseatic League"]
+      },
+      {
+        "answer": "Pavilosta",
+        "clues": ["Small coastal town", "Known for windsurfing", "On the Baltic Sea"]
+      },
+      {
+        "answer": "Rucava",
+        "clues": ["Southernmost village in Latvia", "Near the Lithuanian border", "Known for its unique dialect"]
+      },
+      {
+        "answer": "Dundaga",
+        "clues": ["Town in Kurzeme", "Known for its castle", "Surrounded by forests"]
+      },
+      {
+        "answer": "Sabile",
+        "clues": ["Town in Kurzeme", "Famous for its vineyards", "Wine-making tradition"]
+      },
+      {
+        "answer": "Kandava",
+        "clues": ["Town in Kurzeme", "Known for its historic center", "On the Abava River"]
+      },
+      {
+        "answer": "Tukums",
+        "clues": ["Town in Zemgale", "Known for its manor", "Gateway to the 'Blue Mountains'"]
+      },
+      {
+        "answer": "Jekabpils",
+        "clues": ["City on the Daugava River", "Formed from two towns", "Historic wooden architecture"]
+      },
+      {
+        "answer": "Preili",
+        "clues": ["Town in Latgale", "Known for its lakes", "Cultural center"]
+      },
+      {
+        "answer": "Varaklani",
+        "clues": ["Town in Latgale", "Known for its Jewish history", "Small and historic"]
+      },
+      {
+        "answer": "Viesite",
+        "clues": ["Town in Zemgale", "Known for its wooden church", "Quiet and rural"]
+      },
+      {
+        "answer": "Akniste",
+        "clues": ["Town near the Lithuanian border", "Known for its folk traditions", "Small and historic"]
+      },
+      {
+        "answer": "Ilukste",
+        "clues": ["Town in Latgale", "On the Daugava River", "Known for its nature"]
+      },
+      {
+        "answer": "Jaunjelgava",
+        "clues": ["Town in Zemgale", "Formerly called 'Friedrichstadt'", "On the Daugava River"]
+      },
+      {
+        "answer": "Lielvarde",
+        "clues": ["Town in Vidzeme", "Known for its belt", "Historic significance"]
+      },
+      {
+        "answer": "Strenci",
+        "clues": ["Town in Vidzeme", "On the Gauja River", "Known for its railway history"]
+      },
+      {
+        "answer": "Valka",
+        "clues": ["Divided town with Valga (Estonia)", "Symbol of Baltic unity", "Border town"]
+      },
+      {
+        "answer": "Zilupe",
+        "clues": ["Town on the Russian border", "Easternmost point of Latvia", "Small and quiet"]
+      },
+      {
+        "answer": "Ragana",
+        "clues": ["Village in Gauja National Park", "Name means 'Witch'", "Tourist attraction"]
+      },
+      {
+        "answer": "Cena",
+        "clues": ["Village near Riga", "Known for its manor", "Historical site"]
+      },
+      {
+        "answer": "Baldone",
+        "clues": ["Town near Riga", "Known for its spa", "Mineral water springs"]
+      },
+      {
+        "answer": "Ikšķile",
+        "clues": ["Town on the Daugava", "Site of the oldest stone church in Latvia", "Flooded by a reservoir"]
+      },
+      {
+        "answer": "Inčukalns",
+        "clues": ["Town in Vidzeme", "Known for its underground gas storage", "Near Riga"]
+      },
+      {
+        "answer": "Jaunpiebalga",
+        "clues": ["Town in Vidzeme", "Known for its hills", "Scenic landscapes"]
+      },
+      {
+        "answer": "Vecpiebalga",
+        "clues": ["Town in Vidzeme", "Cultural heritage site", "Rural charm"]
+      },
+      {
+        "answer": "Ligatne",
+        "clues": ["Town in Gauja National Park", "Known for its secret Soviet bunker", "Nature trails"]
+      },
+      {
+        "answer": "Mazsalaca",
+        "clues": ["Town in Vidzeme", "On the Salaca River", "Known for its nature park"]
+      },
+      {
+        "answer": "Rundale",
+        "clues": ["Famous palace", "Designed by Rastrelli", "Often called 'Latvia's Versailles'"]
+      },
+      {
+        "answer": "Jelgava Palace",
+        "clues": ["Baroque palace", "Designed by Rastrelli", "Former residence of the Dukes of Courland"]
+      },
+      {
+        "answer": "Turaida",
+        "clues": ["Historic castle", "In Gauja National Park", "Museum Reserve"]
+      },
+      {
+        "answer": "Burtnieki",
+        "clues": ["Lake in northern Latvia", "Linked to Latvian legends", "Scenic area"]
+      },
+      {
+        "answer": "Usma",
+        "clues": ["Lake in Kurzeme", "One of Latvia's deepest lakes", "Clear waters"]
+      },
+      {
+        "answer": "Razna",
+        "clues": ["Lake in Latgale", "Second-largest in Latvia", "National park nearby"]
+      },
+      {
+        "answer": "Lubans",
+        "clues": ["Largest lake in Latvia", "Shallow and marshy", "Important for birds"]
+      },
+      {
+        "answer": "Engure",
+        "clues": ["Lake near the Baltic Sea", "Nature park", "Rich in biodiversity"]
+      },
+      {
+        "answer": "Kolka",
+        "clues": ["Cape where Baltic Sea meets Gulf of Riga", "Known for its lighthouse", "Livonian heritage"]
+      },
+      {
+        "answer": "Slitere",
+        "clues": ["National park in Kurzeme", "Famous for its lighthouse", "Diverse wildlife"]
+      },
+      {
+        "answer": "Kemeri",
+        "clues": ["National park", "Known for its wetlands", "Spa town nearby"]
+      },
+      {
+        "answer": "Pape",
+        "clues": ["Nature park", "Important for birdwatching", "Near the Lithuanian border"]
+      },
+      {
+        "answer": "Daugavgriva",
+        "clues": ["Fortress near Riga", "At the Daugava's mouth", "Historic military site"]
+      },
+      {
+        "answer": "Dole",
+        "clues": ["Island in the Daugava", "Near Riga", "Nature trails"]
+      },
+      {
+        "answer": "Mezaparks",
+        "clues": ["Riga's forest park", "Home to the Song Festival grounds", "Zoo and recreation area"]
+      },
+      {
+        "answer": "Brivibas piemineklis",
+        "clues": ["Freedom Monument in Riga", "Symbol of independence", "Topped by Milda"]
+      },
+      {
+        "answer": "Alberta iela",
+        "clues": ["Famous Art Nouveau street in Riga", "Designed by Mikhail Eisenstein", "Tourist attraction"]
+      },
+      {
+        "answer": "Riga Black Balsam",
+        "clues": ["Traditional Latvian herbal liqueur", "Dark and bitter", "Used in cocktails"]
+      },
+      {
+        "answer": "Latvian Legion",
+        "clues": ["WWII military unit", "Controversial history", "Commemorated by some"]
+      },
+      {
+        "answer": "Singing Revolution",
+        "clues": ["Baltic peaceful protests", "Led to independence", "Mass song festivals"]
+      },
+      {
+        "answer": "Saules Diena",
+        "clues": ["Summer solstice", "Celebrated with Līgo", "Longest day of the year"]
+      },
+      {
+        "answer": "Gaizinkalns",
+        "clues": ["Highest peak in Latvia", "312 meters tall", "Located in Vidzeme"]
+      },
+      {
+        "answer": "Gutmana Ala",
+        "clues": ["Largest cave in the Baltics", "Located in Sigulda", "Covered in ancient inscriptions"]
+      },
+      {
+        "answer": "Velnala",
+        "clues": ["Devil's Cave", "Near the Gauja River", "Linked to Latvian legends"]
+      },
+      {
+        "answer": "Karlis Ulmanis",
+        "clues": ["First Prime Minister of Latvia", "Served four terms", "Key figure in independence"]
+      },
+      {
+        "answer": "Janis Cakste",
+        "clues": ["First President of Latvia", "1922-1927", "Lawyer and politician"]
+      },
+      {
+        "answer": "Vaira Vike Freiberga",
+        "clues": ["First female President of Latvia", "Served 1999-2007", "Psychologist and scholar"]
+      },
+      {
+        "answer": "Ernests Gulbis",
+        "clues": ["Latvian tennis star", "Reached ATP top 10", "Known for powerful serves"]
+      },
+      {
+        "answer": "Kristaps Porzingis",
+        "clues": ["NBA basketball player", "Nicknamed 'The Unicorn'", "From Liepaja"]
+      },
+      {
+        "answer": "Riga Motors",
+        "clues": ["Latvian car manufacturer", "Produced the RAF minibus", "Soviet-era"]
+      },
+      {
+        "answer": "Limuzins",
+        "clues": ["Latvian stretch limousine", "Custom-built", "Used for weddings"]
+      },
+      {
+        "answer": "Laima",
+        "clues": ["Famous Latvian chocolate brand", "Named after the goddess of fate", "Riga-based"]
+      },
+      {
+        "answer": "Piejuras",
+        "clues": ["Latvian mineral water", "Natural springs", "Popular locally"]
+      },
+      {
+        "answer": "Ragana",
+        "clues": ["Witch-themed village", "In Gauja National Park", "Tourist attraction"]
+      },
+      {
+        "answer": "Cinevilla",
+        "clues": ["Latvian film studio", "Open-air museum", "Used for historical movies"]
+      },
+      {
+        "answer": "Rigas Sargi",
+        "clues": ["Latvian war film", "About 1919 battles", "Box office hit"]
+      },
+      {
+        "answer": "Nameja Gredzens",
+        "clues": ["Historical film", "About medieval Latvian hero", "National epic"]
+      },
+      {
+        "answer": "Pitons",
+        "clues": ["Latvian comedy film", "About Soviet-era scouts", "Cult classic"]
+      },
+      {
+        "answer": "Janis Streics",
+        "clues": ["Famous Latvian filmmaker", "Directed 'The Child of Man'", "Soviet-era"]
+      },
+      {
+        "answer": "Riga Bourse",
+        "clues": ["Art Museum in Riga", "Former stock exchange", "Neo-Renaissance building"]
+      },
+      {
+        "answer": "Latvian National Theatre",
+        "clues": ["Iconic Riga theater", "Founded in 1919", "Art Nouveau style"]
+      },
+      {
+        "answer": "Dailes Teatris",
+        "clues": ["Prominent Riga theater", "Known for modern plays", "Founded 1920"]
+      },
+      {
+        "answer": "Skonto Hall",
+        "clues": ["Concert venue in Riga", "Hosts Eurovision events", "Modern architecture"]
+      },
+      {
+        "answer": "Arēna Rīga",
+        "clues": ["Largest indoor arena in Baltics", "Hosts hockey games", "Built in 2006"]
+      },
+      {
+        "answer": "Dzintari ConcertHall",
+        "clues": ["Famous Jurmala venue", "Open-air concerts", "Soviet-era landmark"]
+      },
+      {
+        "answer": "Latvijas Radio Koris",
+        "clues": ["Latvian Radio Choir", "World-famous ensemble", "Grammy winner"]
+      },
+      {
+        "answer": "Prāta Vētra",
+        "clues": ["Latvian rock band", "Internationally known as 'Brainstorm'", "Eurovision stars"]
+      },
+      {
+        "answer": "Jumprava",
+        "clues": ["Latvian folk band", "Traditional music", "Modern arrangements"]
+      },
+      {
+        "answer": "Līvi",
+        "clues": ["Legendary Latvian rock band", "1980s hits", "National icons"]
+      },
+      {
+        "answer": "Autobuss Debesis",
+        "clues": ["Latvian cult film", "Surreal comedy", "1990s classic"]
+      },
+      {
+        "answer": "Rigas Satiksme",
+        "clues": ["Riga's public transport", "Trams and buses", "Yellow vehicles"]
+      },
+      {
+        "answer": "Rigas Tramvajs",
+        "clues": ["Oldest tram system in Baltics", "Since 1882", "Electric trams"]
+      },
+      {
+        "answer": "Staburags",
+        "clues": ["Former cliff on Daugava", "Flooded by reservoir", "Legendary landmark"]
+      },
+      {
+        "answer": "Daugavas Loki",
+        "clues": ["Daugava River bends", "Scenic national park", "Hiking trails"]
+      },
+      {
+        "answer": "Krustkalni",
+        "clues": ["Nature reserve", "Rich biodiversity", "Protected area"]
+      },
+      {
+        "answer": "Rāzna",
+        "clues": ["National park", "Second-largest lake", "Latgale region"]
+      },
+      {
+        "answer": "Aglona",
+        "clues": ["Famous basilica", "Pilgrimage site", "Catholic center"]
+      }
+    ]
+  }

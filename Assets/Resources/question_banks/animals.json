@@ -1,19 +1,243 @@
 {
     "themeName": "Animals",
-    "description": " oiwo fiwaofaihoaifhadsofi shao fsiahfiodsafaodsif",
-    "visibleInEditor": false,
+    "description": "Animal pack - 59 answers",
+    "visibleInBankEditor": false,
     "questions": [
-      {
-        "answer": "Elephant",
-        "clues": ["Trunk", "Large", "Tusks"]
-      },
-      {
-        "answer": "Penguin",
-        "clues": ["Antarctica", "Tuxedo", "Flightless Bird"]
-      },
-      {
-        "answer": "Tiger",
-        "clues": ["Stripes", "Jungle", "Big Cat"]
-      }
-    ]
-  }
+    {
+      "answer": "Elephant",
+      "clues": ["Trunk", "Large", "Tusks"]
+    },
+    {
+      "answer": "Penguin",
+      "clues": ["Antarctica", "Tuxedo", "Flightless Bird"]
+    },
+    {
+      "answer": "Tiger",
+      "clues": ["Stripes", "Jungle", "Big Cat"]
+    },
+    {
+      "answer": "Kangaroo",
+      "clues": ["Australia", "Pouch", "Jumping"]
+    },
+    {
+      "answer": "Sloth",
+      "clues": ["Slow", "Tree Dweller", "Hangs Upside Down"]
+    },
+    {
+      "answer": "Platypus",
+      "clues": ["Beak", "Egg-Laying", "Aquatic"]
+    },
+    {
+      "answer": "Cheetah",
+      "clues": ["Fast", "Spots", "Savanna"]
+    },
+    {
+      "answer": "Giraffe",
+      "clues": ["Long Neck", "Tall", "Spots"]
+    },
+    {
+      "answer": "Polar Bear",
+      "clues": ["Arctic", "White Fur", "Large Carnivore"]
+    },
+    {
+      "answer": "Shark",
+      "clues": ["Fin", "Ocean", "Predator"]
+    },
+    {
+      "answer": "Dolphin",
+      "clues": ["Intelligent", "Clicks", "Swims in Pods"]
+    },
+    {
+      "answer": "Eagle",
+      "clues": ["Sharp Vision", "Soars", "Bird of Prey"]
+    },
+    {
+      "answer": "Gorilla",
+      "clues": ["Primates", "Beats Chest", "Strong"]
+    },
+    {
+      "answer": "Rabbit",
+      "clues": ["Hops", "Carrots", "Long Ears"]
+    },
+    {
+      "answer": "Snake",
+      "clues": ["No Legs", "Hiss", "Venomous"]
+    },
+    {
+      "answer": "Panda",
+      "clues": ["Black and White", "Bamboo", "China"]
+    },
+    {
+      "answer": "Monkey",
+      "clues": ["Climbing", "Tail", "Jungle"]
+    },
+    {
+      "answer": "Peacock",
+      "clues": ["Colorful Feathers", "Tail Display", "Struts"]
+    },
+    {
+      "answer": "Alligator",
+      "clues": ["Swamp", "Reptile", "Snapping Jaws"]
+    },
+    {
+      "answer": "Whale",
+      "clues": ["Ocean", "Blows Water", "Massive"]
+    },
+    {
+      "answer": "Lion",
+      "clues": ["Mane", "Roar", "Pride"]
+    },
+    {
+      "answer": "Octopus",
+      "clues": ["Eight Arms", "Ink", "Tentacles"]
+    },
+    {
+      "answer": "Zebra",
+      "clues": ["Stripes", "Africa", "Horse-Like"]
+    },
+    {
+      "answer": "Owl",
+      "clues": ["Hoot", "Nocturnal", "Wise"]
+    },
+    {
+      "answer": "Frog",
+      "clues": ["Jumps", "Ribbit", "Pond"]
+    },
+    {
+      "answer": "Bat",
+      "clues": ["Nocturnal", "Wings", "Upside Down"]
+    },
+    {
+      "answer": "Wolf",
+      "clues": ["Howl", "Pack", "Forest"]
+    },
+    {
+      "answer": "Camel",
+      "clues": ["Desert", "Humps", "Stores Water"]
+    },
+    {
+      "answer": "Hippopotamus",
+      "clues": ["River", "Massive", "Aggressive"]
+    },
+    {
+      "answer": "Toad",
+      "clues": ["Warty Skin", "Croaks", "Amphibian"]
+    },
+    {
+      "answer": "Raccoon",
+      "clues": ["Mask Face", "Trash", "Night Wanderer"]
+    },
+    {
+      "answer": "Koala",
+      "clues": ["Australia", "Eucalyptus", "Sleepy"]
+    },
+    {
+      "answer": "Lemur",
+      "clues": ["Big Eyes", "Tail", "Madagascar"]
+    },
+    {
+      "answer": "Chameleon",
+      "clues": ["Color Change", "Tongue", "Camouflage"]
+    },
+    {
+      "answer": "Seahorse",
+      "clues": ["Curled Tail", "Swims Upright", "Tiny"]
+    },
+    {
+      "answer": "Parrot",
+      "clues": ["Mimics Speech", "Tropical", "Bright Colors"]
+    },
+    {
+      "answer": "Moose",
+      "clues": ["Large Antlers", "Forest", "North America"]
+    },
+    {
+      "answer": "Otter",
+      "clues": ["River", "Plays", "Furry"]
+    },
+    {
+      "answer": "Skunk",
+      "clues": ["Black and White", "Spray", "Stinky"]
+    },
+    {
+      "answer": "Beaver",
+      "clues": ["Dams", "Flat Tail", "Wood"]
+    },
+    {
+      "answer": "Lizard",
+      "clues": ["Scales", "Cold-Blooded", "Crawls"]
+    },
+    {
+      "answer": "Flamingo",
+      "clues": ["Pink", "Stands on One Leg", "Long Legs"]
+    },
+    {
+      "answer": "Hyena",
+      "clues": ["Laughing Sound", "Scavenger", "Savanna"]
+    },
+    {
+      "answer": "Armadillo",
+      "clues": ["Shell", "Rolls Up", "South America"]
+    },
+    {
+      "answer": "Ant",
+      "clues": ["Tiny", "Colony", "Lifts Heavy"]
+    },
+    {
+      "answer": "Bee",
+      "clues": ["Buzz", "Honey", "Stinger"]
+    },
+    {
+      "answer": "Crab",
+      "clues": ["Sideways Walk", "Claws", "Beach"]
+    },
+    {
+      "answer": "Jellyfish",
+      "clues": ["Tentacles", "Sting", "Ocean"]
+    },
+    {
+      "answer": "Meerkat",
+      "clues": ["Stand Tall", "Desert", "Burrows"]
+    },
+    {
+      "answer": "Porcupine",
+      "clues": ["Quills", "Spiky", "Rodent"]
+    },
+    {
+      "answer": "Donkey",
+      "clues": ["Bray", "Stubborn", "Farm Animal"]
+    },
+    {
+      "answer": "Lynx",
+      "clues": ["Tufted Ears", "Snow", "Wild Cat"]
+    },
+    {
+      "answer": "Walrus",
+      "clues": ["Tusks", "Blubber", "Ice"]
+    },
+    {
+      "answer": "Mole",
+      "clues": ["Digs", "Blind", "Underground"]
+    },
+    {
+      "answer": "Goat",
+      "clues": ["Horns", "Eats Anything", "Bleats"]
+    },
+    {
+      "answer": "Tarantula",
+      "clues": ["Hairy Legs", "Creepy", "Big Spider"]
+    },
+    {
+      "answer": "Starfish",
+      "clues": ["Five Arms", "Regrows", "Ocean Floor"]
+    },
+    {
+      "answer": "Salmon",
+      "clues": ["River Run", "Fish", "Swims Upstream"]
+    },
+    {
+      "answer": "Turkey",
+      "clues": ["Gobble", "Feathers", "Thanksgiving"]
+    }
+  ]
+}

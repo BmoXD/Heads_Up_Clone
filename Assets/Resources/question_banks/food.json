@@ -1,0 +1,243 @@
+{
+  "themeName": "Food",
+  "description": "Food pack - 59 answers",
+  "visibleInBankEditor": false,
+  "questions": [
+    {
+      "answer": "Pizza",
+      "clues": ["Cheese", "Slices", "Italian Origin"]
+    },
+    {
+      "answer": "Sushi",
+      "clues": ["Rice", "Seaweed", "Raw Fish"]
+    },
+    {
+      "answer": "Hamburger",
+      "clues": ["Bun", "Beef Patty", "Lettuce and Tomato"]
+    },
+    {
+      "answer": "Pasta",
+      "clues": ["Noodles", "Marinara", "Italian Dish"]
+    },
+    {
+      "answer": "Taco",
+      "clues": ["Shell", "Mexican", "Meat Filling"]
+    },
+    {
+      "answer": "Ice Cream",
+      "clues": ["Cold", "Sweet", "Comes in a Cone"]
+    },
+    {
+      "answer": "Chocolate",
+      "clues": ["Sweet", "Brown", "Candy Bar"]
+    },
+    {
+      "answer": "Hot Dog",
+      "clues": ["Bun", "Sausage", "Ballpark Snack"]
+    },
+    {
+      "answer": "French Fries",
+      "clues": ["Potato", "Crispy", "Served with Ketchup"]
+    },
+    {
+      "answer": "Cake",
+      "clues": ["Birthday", "Frosting", "Baked"]
+    },
+    {
+      "answer": "Donut",
+      "clues": ["Round", "Glazed", "With a Hole"]
+    },
+    {
+      "answer": "Apple",
+      "clues": ["Fruit", "Crunchy", "Keeps the Doctor Away"]
+    },
+    {
+      "answer": "Spaghetti",
+      "clues": ["Long Noodles", "Meatballs", "Tomato Sauce"]
+    },
+    {
+      "answer": "Sandwich",
+      "clues": ["Bread", "Lettuce", "Ham or Turkey"]
+    },
+    {
+      "answer": "Salad",
+      "clues": ["Greens", "Dressing", "Healthy"]
+    },
+    {
+      "answer": "Cereal",
+      "clues": ["Breakfast", "Milk", "Comes in a Box"]
+    },
+    {
+      "answer": "Toast",
+      "clues": ["Bread", "Toasted", "Often Buttered"]
+    },
+    {
+      "answer": "Pancakes",
+      "clues": ["Stacked", "Syrup", "Breakfast"]
+    },
+    {
+      "answer": "Waffles",
+      "clues": ["Grid Pattern", "Crispy", "Served with Syrup"]
+    },
+    {
+      "answer": "Bagel",
+      "clues": ["Round", "Hole in Center", "Cream Cheese"]
+    },
+    {
+      "answer": "Cheeseburger",
+      "clues": ["Beef", "Melted Cheese", "Fast Food"]
+    },
+    {
+      "answer": "Fried Chicken",
+      "clues": ["Crispy", "Southern", "Drumstick"]
+    },
+    {
+      "answer": "Steak",
+      "clues": ["Grilled", "Juicy", "Medium Rare"]
+    },
+    {
+      "answer": "Ramen",
+      "clues": ["Noodles", "Broth", "Japanese"]
+    },
+    {
+      "answer": "Burrito",
+      "clues": ["Wrapped", "Mexican", "Beans and Rice"]
+    },
+    {
+      "answer": "Chili",
+      "clues": ["Spicy", "Beans", "Served in a Bowl"]
+    },
+    {
+      "answer": "Mac and Cheese",
+      "clues": ["Pasta", "Cheesy", "Comfort Food"]
+    },
+    {
+      "answer": "Lasagna",
+      "clues": ["Layers", "Pasta Sheets", "Oven-Baked"]
+    },
+    {
+      "answer": "Croissant",
+      "clues": ["French", "Flaky", "Butter"]
+    },
+    {
+      "answer": "Bacon",
+      "clues": ["Crispy", "Pork", "Breakfast"]
+    },
+    {
+      "answer": "Eggs Benedict",
+      "clues": ["Poached", "Hollandaise", "English Muffin"]
+    },
+    {
+      "answer": "Avocado Toast",
+      "clues": ["Trendy", "Green", "Smashed Fruit"]
+    },
+    {
+      "answer": "Quesadilla",
+      "clues": ["Tortilla", "Cheese", "Grilled"]
+    },
+    {
+      "answer": "Nachos",
+      "clues": ["Chips", "Cheese", "Jalapeños"]
+    },
+    {
+      "answer": "Pineapple",
+      "clues": ["Spiky", "Tropical", "Sweet and Tart"]
+    },
+    {
+      "answer": "Grapes",
+      "clues": ["Clusters", "Purple or Green", "Wine"]
+    },
+    {
+      "answer": "Strawberries",
+      "clues": ["Red", "Seeds on Outside", "Shortcake"]
+    },
+    {
+      "answer": "Blueberries",
+      "clues": ["Tiny", "Antioxidants", "Muffins"]
+    },
+    {
+      "answer": "Mango",
+      "clues": ["Tropical", "Yellow", "Juicy"]
+    },
+    {
+      "answer": "Banana",
+      "clues": ["Peel", "Yellow", "Monkey Snack"]
+    },
+    {
+      "answer": "Corn on the Cob",
+      "clues": ["Yellow", "Grilled", "Butter"]
+    },
+    {
+      "answer": "Popcorn",
+      "clues": ["Movie Snack", "Popped", "Buttery"]
+    },
+    {
+      "answer": "Onion Rings",
+      "clues": ["Fried", "Crispy", "Circles"]
+    },
+    {
+      "answer": "Pretzel",
+      "clues": ["Twisted", "Salty", "Snack"]
+    },
+    {
+      "answer": "Cupcake",
+      "clues": ["Mini Cake", "Frosting", "Party"]
+    },
+    {
+      "answer": "Brownie",
+      "clues": ["Chocolate", "Square", "Fudgy"]
+    },
+    {
+      "answer": "Cookie",
+      "clues": ["Chocolate Chips", "Baked", "Snack"]
+    },
+    {
+      "answer": "Milkshake",
+      "clues": ["Cold", "Straw", "Blended"]
+    },
+    {
+      "answer": "Smoothie",
+      "clues": ["Fruity", "Blended", "Healthy Drink"]
+    },
+    {
+      "answer": "Cheese",
+      "clues": ["Dairy", "Slices or Blocks", "Swiss or Cheddar"]
+    },
+    {
+      "answer": "Yogurt",
+      "clues": ["Dairy", "Spoon", "Fruit Flavors"]
+    },
+    {
+      "answer": "Tuna",
+      "clues": ["Fish", "Canned", "Sandwich Filling"]
+    },
+    {
+      "answer": "Lobster",
+      "clues": ["Red Shell", "Claws", "Seafood"]
+    },
+    {
+      "answer": "Shrimp",
+      "clues": ["Small", "Seafood", "Cocktail Sauce"]
+    },
+    {
+      "answer": "Omelette",
+      "clues": ["Eggs", "Folded", "Stuffed with Fillings"]
+    },
+    {
+      "answer": "Rice",
+      "clues": ["Grain", "White or Brown", "Goes with Curry"]
+    },
+    {
+      "answer": "Curry",
+      "clues": ["Spicy", "Indian", "Served with Rice"]
+    },
+    {
+      "answer": "Soup",
+      "clues": ["Liquid", "Hot", "Served in Bowl"]
+    },
+    {
+      "answer": "Popsicle",
+      "clues": ["Frozen", "Stick", "Summer Treat"]
+    }
+  ]
+}
