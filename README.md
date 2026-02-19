@@ -17,7 +17,7 @@ The goal is to guess as many prompts as possible before time runs out.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/86dd30af-6d98-45b5-a106-46eeb9d2ee99" width="32%" />
