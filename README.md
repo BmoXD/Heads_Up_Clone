@@ -4,6 +4,7 @@ A simple **Heads Up** game clone built in **Unity**, featuring customizable them
 
 ---
 
+## About the Project
 Noggin' It is a guessing game where players hold a prompt to their forehead while others give clues.  
 The goal is to guess as many prompts as possible before time runs out.
 
